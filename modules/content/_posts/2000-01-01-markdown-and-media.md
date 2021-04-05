@@ -1,5 +1,5 @@
 ---
-title: Markdown & Media
+title: Einführung
 ---
 
 ## Formatting Text with Markdown
