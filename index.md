@@ -2,33 +2,16 @@
 layout: index
 published: true
 ---
+Dieses Online-Kompakt-Training bringt Ihnen das Konzept der Learning Circles, oder die im deutschsprachigen Raum eingeführte Bezeichnung Lernteam, näher. Wenn Sie diesen Kurs absolvieren, werden Sie das Konzept und die Methodik besser verstehen und können den Kurs nutzen, um künftige Moderierende zu schulen. Wenn Sie diesen Kurs abschließen, werden Sie mit den Konzepten, Fähigkeiten, Werkzeugen und Ressourcen vertraut sein, die erforderlich sind, um die Durchführung von Lernteams für Menschen in Ihrem Ort oder Stadtteil in Angriff zu nehmen.
 
-Course-in-a-Box is a free tool for building and publishing online courses—no prior coding experience required. This guide was made using Course-in-a-Box, so what you see here is what you’ll start with. There are three modules that walk through the course creation process, all linked in the nav bar at the top of the page:
-* **[Setup](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
-* **[Content](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
-* **[Customize](/modules/customize/favicon)** - Add some (optional) finishing touches
+**Erläuterungen zur Nutzung**
 
-<br> 
+Dieses Hammer- und Schraubschlüssel-Symbol werden Sie während des Kurses immer wieder einmal sehen. Es weist auf Stellen hin, die sich auf P2PU-Software-Tools beziehen; diese Tools sollen Ihnen helfen, die Lernteams durchzuführen. Umfangreiches Informationsmaterial zu unseren Werkzeugen finden Sie unter Read the Docs.
 
-#### Course-in-a-Box Courses We Love ❤️
-Here are some examples of Course-in-a-Box in the wild:
+In jedem Modul werden Sie dieses Wollknäuel-Icon sehen, es steht neben Aufforderungen, sich an unserem P2PU Community Forum zu beteiligen. Diese Hinweise sollen Ihnen helfen, die Ressourcen kennenzulernen, die es in unserer P2PU-Online-Community gibt, und das Forum wird Sie auch mit Menschen in anderen Teilen der Welt in Verbindung bringen, die Lernteams veranstalten!
 
-* [Making and Learning](http://p2pu.github.io/makingandlearning/) by Children’s Museum of Pittsburgh
-* [Designing for Documentation and Assessment](https://playfulmit.github.io/beyond-rubrics/) by MIT Playful Journey Lab
-* [ExplOERer Course](http://www.exploerercourse.org/en/) by Gothenburg University, Open University, and CC Poland
-* [Learning about Learning Circles](https://p2pu.github.io/learning-about-learning-circles/)  by P2PU
+Dieses Training ist so konzipiert, das es als Lernteam durchgeführt werden kann. Jedes der fünf Module ist mit Bedacht so zusammengestellt worden, dass kleine Gruppen es in 90-minütigen Treffen durcharbeiten können. Durch die Teilnahme an diesem Kurs über Lernteams nimmt man also gleichzeitig an einem Lernteam teil!
 
-<br> 
+<br>
 
-#### Need some help?
-Our [community forum](https://community.p2pu.org/c/tech/course-in-a-box/78) is a great place to ask questions or find help when you get stuck. Feel free to post there anytime!
 
-You can also hire P2PU to provide support with learning design, technical setup, course customizations, or web hosting. If you’re interested in collaborating on a project, reach out to us at thepeople@p2pu.org
-
-<br> 
-
-#### About Course-in-a-Box
-
-P2PU created Course-in-a-Box in 2014 as a free and lightweight tool for building online courses. We wanted to preserve the modular structure of MOOCs outside of the bulky (and often proprietary) environment of learning/content management systems. Course-in-a-Box is open-source, and we welcome contributions [on our Github repo](https://github.com/p2pu/course-in-a-box).
-
-p.s. Designing a course for learning circles? [Check out the Learning Circle Course Creation guide](https://docs.google.com/document/u/1/d/116fJM3GS7XDzilUOL_ynMZ0yTncUD6aVUbcQKsTra6U/edit#heading=h.l36tzg40xcgr) for some best practices on course design.
