@@ -3,7 +3,7 @@
 
 _Vorgeschlagene Zeit: 35 Minuten_
 
-Eine kurze Geschichte des Online-Lernens
+**Eine kurze Geschichte des Online-Lernens**
 
 Am 20. März 1728 erschien eine Anzeige in der Boston Gazette, in der Unterricht in Kurzschrift angeboten wurde. Bemerkenswerterweise richtete sie sich nicht ausschließlich an Bewohner von Boston, sondern an jedwede &quot;Person in the Country desirous to Learn this Art&quot;. Der Lehrer (i.S. von instructor) schlug vor, wöchentliche Lektionen mit der Post zu schicken, was es jedem ermöglichen würde, bei ihm zu lernen &quot;as perfectly as those that live in Boston&quot;. In dieser Anzeige spiegelt sich die Tendenz, viel zu versprechen, obwohl man wenig einlösen kann, eine Tendenz, die in den folgenden 300 Jahren beim Fernlernen immer wieder zu beobachten war, auch wenn es um Formate im Radio, Fernsehen oder Internet ging. Im Laufe der Geschichte haben viele der erfolgreichen Fernlernkonzepte – ob es sich um das Chautauqua Movement, die Open University oder Ivan Illich&#39;s Lernnetze handelte – Fernunterricht in einem dezentralen Netzwerk von Präsenz-Treffen verankert.
 
@@ -11,7 +11,7 @@ Im Laufe der letzten zwanzig Jahre sind die durch die Vision von frei verfügbar
 
 Um das Jahr 2008 herum begannen einige Personen und Institutionen, noch einen Schritt weiter zu gehen, was die OER-Aktivitäten betraf. Statt nur Lernmaterialien online zu teilen, begannen sie, frei zugängliche Onlinekurse zu veranstalten, bei denen sich Lernende aus aller Welt anmelden konnten und als Online-Community gemeinsam Kursmaterialien durcharbeiten konnten. Diese Experimente wurden als MOOCs bezeichnet: Massive Open Online Courses (MOOCs). Die Bezeichnung MOOC ist seit ein paar Jahren nicht mehr so oft zu hören (und auf vieles, was als MOOC bezeichnet wird, trifft weder das Wort _massive_ noch das Wort _open_ zu), aber das bedeutet nicht, dass sie gar nicht mehr populär wären. [Laut Class Central](https://www.classcentral.com/report/mooc-stats-2019/) (eine MOOC-Suchmaschine und -Übersichtsseite) nahmen im Jahr 2019 immerhin 110 Millionen Menschen an 13.000 Onlinekursen teil.
 
-Verbreitete Arten von Onlinekursen
+**Verbreitete Arten von Onlinekursen**
 
 Onlinekurse gibt es in allen möglichen Formen. Sie können von Fachleuten erstellt sein, von Fakultätsmitgliedern, Lerndesignern oder Leuten, die sich mit einem bestimmten Hobby beschäftigen. Sie können auf der Website einer Person gehostet werden oder können Teil eines umfassenderen universitären Konzepts sein. Einige Kurse sind open access in der Form, dass sie eine Lizenz haben, die sowohl Re-use als auch Adaptation erlaubt, während andere kostenfrei sind, aber durch die Copyright-Bestimmungen Nutzern untersagen, durch eine Art Remix die Kursmaterialien den eigenen Bedürfnissen anzupassen. Es gibt vier verbreitete Arten von Kursen, die wir in Lernteams begegnen:
 
@@ -31,7 +31,7 @@ Beispiele: [Scratch](https://scratch.mit.edu/), [Tinkercad](https://www.tinkerca
 
 Beispiele: [GALE Courses](https://www.gale.com/c/gale-courses), LinkedIn Learning und [Universal Class](https://library.universalclass.com/index.htm).
 
-Kurse suchen
+**Kurse suchen**
 
 Diejenigen, die an Lernteams teilnehmen, kommen zusammen, weil ein gemeinsames Interesse sie verbindet; dies wird durch frei zugängliche Lernmaterialien unterstützt. Als Moderierende ist es Ihre Aufgabe, diese Materialien ausfindig zu machen, bevor das Lernteam beginnt.
 
@@ -55,7 +55,7 @@ Machen Sie sich keine Sorgen, wenn Sie keinen Kurs auf der P2PU-Kurs-Seite finde
   - [MOOC Plattformen im Vergleich](http://www.bpb.de/lernen/digitale-bildung/werkstatt/211098/mooc-plattformen-im-vergleich)
   - [Bildungsserver MOOCs](https://www.bildungsserver.de/MOOC-Suche-11046-de.html)
 
-Kurse einschätzen
+**Kurse einschätzen**
 
 Sie brauchen keine Fachleute für die Kursmaterialien zu sein, um ein Lernteam zu moderieren. Aber unabhängig davon, ob Sie in der P2PU-Kursdatenbank oder anderswo im Internet suchen, werden Sie die Kurse einschätzen wollen, bevor Sie ein Lernteam organisieren. Es gibt ein paar wichtige Aspekte, wenn man einen Kurs auf seine Eignung hin beurteilt:
 
@@ -66,7 +66,7 @@ Sie brauchen keine Fachleute für die Kursmaterialien zu sein, um ein Lernteam z
 
 Falls es Ihnen schwerfällt, sich zwischen einigen Kursen zu entscheiden – P2PU hat ein [detailliertes Bewertungsraste](https://community.p2pu.org/t/what-to-look-for-in-a-course/2756)r, das Sie nutzen können, um Kurse für Lernteams einzuschätzen und zu vergleichen.
 
-Kurse anpassen
+**Kurse anpassen**
 
 Wenn Sie nach Kursen gesucht und sie eingeschätzt haben, folgt als letzter Schritt die Anpassung an die Erfordernisse des Lernteams. Wie wir im ersten Modul erwähnt haben, sind nicht alle Kurse so auf Lernteams zugeschnitten wie dieser, d.h. Sie müssen als Moderierende Maßnahmen ergreifen, um den Kurs an das Lernteam-Format anzupassen. Was genau führt aber nun eigentlich dazu, dass ein Kurs erfolgreich für ein Lernteam genutzt werden kann?
 
@@ -74,7 +74,7 @@ Im September 2019 stellten wir diese Frage Lernteam-Moderierenden, die in der Bo
 
 ![](RackMultipart20210407-4-1emejg6_html_d42f109171d08a6.png)
 
-Neue Kurse erstellen
+**Neue Kurse erstellen**
 
 In einigen Fällen haben Moderatoren ihre Kurse selbst erstellt. Hier ein paar Beispiele, wie das aussehen kann:
 
@@ -92,7 +92,7 @@ Auf der anderen Seite des Charles River fand Jordan, eine Bibliothekarin in Bost
 
 Es gibt natürlich keine Verpflichtung, selbst einen Kurs zu erstellen, wenn man ein Lernteam organisiert. Aber wenn es Sie interessiert, möchten wir Sie ermutigen, [Course in a Box](https://howto.p2pu.org/) auszuprobieren, das von uns entwickelte Open-Source-Tool, mit dem man Onlinekurse ausarbeiten kann. Wir haben Course in a Box genutzt, um diesen Kurs zu entwerfen, und wir haben auch mit Partnern zusammengearbeitet, um andere Kurse zu konzipieren, die für Lernteams gedacht sind, wie z.B. [Making and Learning](http://p2pu.github.io/makingandlearning/).
 
-Weitere Lektüre &amp; Ressourcen
+**Weitere Lektüre &amp; Ressourcen**
 
 Wenn Sie daran interessiert sind, einige der Themen, die in diesem Teil vorkamen, zu vertiefen und mehr darüber zu erfahren, empfehlen wir folgende Ressourcen:
 
