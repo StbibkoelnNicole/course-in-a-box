@@ -1,5 +1,5 @@
 
-## Lesen [und Ansehen](https://learningcircles.p2pu.org/en/studygroup/create/?course_id=480)
+## Lesen und Ansehen
 
 _Vorgeschlagene Zeit: 30 Minuten_
 
