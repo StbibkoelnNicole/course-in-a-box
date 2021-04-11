@@ -32,11 +32,4 @@ Courses page: Die Kursseite führt alle Onlinekurse auf, die Moderierende genutz
 Blog: Die neuesten Informationen des P2PU-Teams.
 Da Sie jetzt einen P2PU-Account haben, gehen Sie zum "Introduce Yourself"-Thread im P2PU Community Forum (falls Sie aufgefordert werden, sich noch einmal im Forum einzuloggen, können Sie dafür Ihre neuen P2PU-Zugangsdaten nutzen; Sie müssen keinen zusätzlichen Account anlegen!). Sagen Sie einfach ‚Hi' und lassen Sie uns wissen, dass Sie diesen Kurs durcharbeiten!
 
-Want to convert another document?
 
-Feedback
-Source
-Donate
-Terms
-Privacy
-@benbalter
