@@ -74,6 +74,8 @@ Im September 2019 stellten wir diese Frage Lernteam-Moderierenden, die in der Bo
 
 ![alt](/img/liste.png)
 
+![alt](/img/logo.png)
+
 **Neue Kurse erstellen**
 
 In einigen Fällen haben Moderatoren ihre Kurse selbst erstellt. Hier ein paar Beispiele, wie das aussehen kann:
