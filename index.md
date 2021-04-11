@@ -6,7 +6,7 @@ Dieses Online-Kompakt-Training bringt Ihnen das Konzept der Learning Circles, od
 
 **Erläuterungen zur Nutzung**
 
-[:hammer_and_wrench] : Dieses Hammer- und Schraubschlüssel-Symbol werden Sie während des Kurses immer wieder einmal sehen. Es weist auf Stellen hin, die sich auf P2PU-Software-Tools beziehen; diese Tools sollen Ihnen helfen, die Lernteams durchzuführen. Umfangreiches Informationsmaterial zu unseren Werkzeugen finden Sie unter Read the Docs.
+:hammer_and_wrench: Dieses Hammer- und Schraubschlüssel-Symbol werden Sie während des Kurses immer wieder einmal sehen. Es weist auf Stellen hin, die sich auf P2PU-Software-Tools beziehen; diese Tools sollen Ihnen helfen, die Lernteams durchzuführen. Umfangreiches Informationsmaterial zu unseren Werkzeugen finden Sie unter Read the Docs.
 
 :yarn: In jedem Modul werden Sie dieses Wollknäuel-Icon sehen, es steht neben Aufforderungen, sich an unserem P2PU Community Forum zu beteiligen. Diese Hinweise sollen Ihnen helfen, die Ressourcen kennenzulernen, die es in unserer P2PU-Online-Community gibt, und das Forum wird Sie auch mit Menschen in anderen Teilen der Welt in Verbindung bringen, die Lernteams veranstalten!
 
