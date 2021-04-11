@@ -7,7 +7,6 @@ Lernteams in der Praxis
 
 Leute entscheiden sich aus verschiedenen Gründen für die Teilnahme an Lernteams, z.B. um sich beruflich weiterzubilden, als Ergänzung ihrer formalen Bildung und um neue soziale Kontakte zu knüpfen. Ihre Aufgabe als Moderierende ist es, allen Lernenden dabei zu helfen, die Ziele zu erreichen, die sie sich gesteckt haben, ohne Fachleute für das Thema zu sein. In diesem Abschnitt werden wir der Frage nachgehen, was gutes Moderieren bedeutet. Zu Beginn wollen wir uns einige konkrete Beispiele von Lernteam-Veranstaltungen ansehen, die in letzter Zeit durchgeführt wurden.
 
-Business Development in Charlotte
 
 [Business development in Charlotte](https://community.p2pu.org/uploads/default/original/2X/b/bd7a576fef9663876673c128334db006f57d0666.jpeg)
 
@@ -21,7 +20,6 @@ Ein paar Monate später gab es Anfragen vonseiten der Bibliothekskundschaft nach
 
 Neulich begann Janet, mit neuen Formaten zu experimentieren. Sie lud frühere Teilnehmer ein, sich ihr als Co-Moderatoren für bevorstehende Lernteams anzuschließen, und sie fing an, Lernteams in einer Shopping Mall vor Ort zu veranstalten, als Teil der bibliothekarischen Öffentlichkeitsarbeit!
 
-The people&#39;s university in Nakuru
 
 [The people&#39;s university in Nakuru](https://live.staticflickr.com/1787/42203422804_6cd703c6fa_k_d.jpg)
 
@@ -31,19 +29,19 @@ Joseck überlegte sich schnell eine Strategie, um Lernende mit mehr Expertise zu
 
 Während er dies tat, experimentierte Purity mit verschiedenen anderen Themen, z.B. Reden in der Öffentlichkeit und Kompetenzen für Interviews. Im Jahr 2017 hatte sie gerade vor, mit einem Lernteam zum Thema Community Journalism anzufangen, als der Kurs einige Tage vor dem Treffen offline gestellt wurde (mehr als 30 Leute hatten sich angemeldet!). Sie wandte sich an P2PU und wir konnten die Universität kontaktieren und erreichen, dass sie den Inhalt für die Gruppe freigab. Aber während das geschah, passierte etwas Unglaubliches – die Gruppe kam zum ersten Treffen, es gab noch keinen Kurs und sie kamen gut zurecht. Jemand kontaktierte einen Freund, der Journalist war, einige andere Leute fanden kostenlose Online-Ressourcen, und die Gruppe war in der Lage, ohne einen Kurs das Nötige zu tun, in dem Bewusstsein, dass jede Person, die gekommen war, Interesse an Community-Journalismus und persönliche Lebenserfahrung hatte, die sie in die Gruppe einbringen konnte. Purity hat selber 12 Lernteams geleitet und 300 Bibliotheksbesucherinnen bzw. -besucher dadurch erreicht. Neulich hat sie zwei Lernteams zu den Basics der Zeichensprache veranstaltet.
 
-Aufgaben der moderierenden Person
+**Aufgaben der moderierenden Person
 
 Lassen Sie uns aus diesen Beispielen Schlüsse ziehen und einige der typischen Aufgaben ansprechen, die Sie als Moderator\*in haben werden. Dazu haben wir auch ein [Video](https://www.youtube.com/embed/tr79oP_cg1M) erstellt, dass Sie sich gerne anschauen können.
 
-Peer Learning modellieren
+**Peer Learning modellieren
 
 Wie im ersten Modul besprochen, werden mit Sicherheit einige Leute zu einem Lernteam kommen, die erwarten, dass sie passiv bleiben können und dass Sie ihnen Informationen vermitteln. Sie sollten von Anfang an vermeiden, sich als die einzige Person im Raum zu positionieren, die eine Antwort hat; sie sollten stattdessen die Lernenden ermutigen, sich gegenseitig im weiteren Verlauf zu helfen. Gleichzeitig gilt: wenn wir sagen, dass jeder etwas lehren oder lernen kann, meinen wir natürlich auch Sie! Haben Sie also keine Angst davor, den Teilnehmenden zu helfen und im Verlauf des Kurses Unterstützung anzubieten.
 
-Den Lernenden zuhören
+**Den Lernenden zuhören
 
 Beobachten Sie und lernen Sie, die Energie des Raums zu deuten. Wer ist heute anscheinend sehr motiviert? Wer ist besonders ruhig? Sobald Sie verstehen, welche Ziele jeder Lernende hat, werden Sie produktiv auf diese Energie reagieren können. Ist ein Teilnehmer ruhig, weil er mit den Grundlagen kämpft? Fragen Sie eine Person, die schon ein paar Schritte weiter ist, ob sie bereit ist zu helfen.
 
-Sozialen Zusammenhalt fördern
+**Sozialen Zusammenhalt fördern
 
 Sozialer Zusammenhalt beginnt sich innerhalb der ersten Stunde zu entwickeln, die eine neue Gruppe zusammen verbringt, und als Moderierende können Sie viel machen, um Leuten zu helfen, sich als Mitglied der Gruppe zu verstehen. Hier einige Ideen, wie man das erreicht:
 
@@ -56,27 +54,27 @@ Sozialer Zusammenhalt beginnt sich innerhalb der ersten Stunde zu entwickeln, di
 - ein Gruppennarrativ herstellen (indem man z.B. sagt &quot;Erinnert Ihr Euch, wie wir…&quot;)
 - eine Gruppensprache entwickeln (Insider-Witze, eine Art Jargon)
 
-Annahmen prüfen und Aussagen klären
+**Annahmen prüfen und Aussagen klären
 
 Die Lernenden werden Ihnen viele inhaltsbezogene Fragen stellen, weil Sie die Person im Raum sind, die einer traditionellen Lehrkraft am nächsten kommt. Wenn das passiert, sollte Ihre Reaktion deutlich machen, dass die anderen Gruppenmitglieder eine wichtige Ressource sind und dass die meisten Fragen von der Gruppe beantwortet werden können. Beispiele für Antworten, die Sie geben könnten, sind: Ich bin nicht sicher, haben Sie schon andere Teilnehmer gefragt, ob Sie auf das gleiche Problem gestoßen sind? Hmmm, wo würden Sie ansetzen, um das herauszubekommen? Allgemein gesprochen, denken Sie darüber nach, eher Anregungen als Anleitungen zu geben.
 
-Hilfreiche regelmäßige Interaktionen zwischen den Lernenden fördern
+**Hilfreiche regelmäßige Interaktionen zwischen den Lernenden fördern
 
 Gemeinsame emotionale Verbindungen dienen dem doppelten Zweck, dem Einzelnen beim Lernen zu helfen und die Gemeinschaft zu stärken. Sie sollten nach Gelegenheiten Ausschau halten, das Gehörte zusammenzufassen und neue Perspektiven und Gesichtspunkte zu finden. Wenn Sie feststellen, dass Fragen oder Gespräche die Gruppe vom Thema ablenken, sollten Sie keine Skrupel haben, zu intervenieren, um wieder zum Thema zurückzukommen. Andere Lernende werden das sehr zu schätzen wissen.
 
-Erwartungen steuern
+**Erwartungen steuern
 
 Wenn man etwas Neues lernt, kann Optimismus schnell in Entmutigung umschlagen. Um diese Klippe zu umschiffen, bringen Sie Ihre Zuversicht zum Ausdruck, dass die Lernenden ihre Ziele erreichen können, bleiben Sie aber gleichzeitig realistisch und seien Sie sich im Klaren darüber, was in sechs Wochen möglich ist. So ist es z.B. unwahrscheinlich, dass Leute ohne Programmiererfahrung nach einem HTML/CSS-Lernteam einen fantastischen IT-Job bekommen. Aber sie werden besser verstehen, wie man eine Website aufbaut, merken, ob das ein Thema ist, mit dem sie sich gern weiter beschäftigen wollen, und Gleichgesinnte in einer Peergroup kennenlernen.
 
-Wachstumsorientierung fördern
+**Wachstumsorientierung fördern
 
 Ein growth mindset (in etwa: dynamisches Selbstbild/Wachstumsorientierung) ist der Glaube, dass die eigenen Fähigkeiten nicht auf einem bestimmten Level verharren, sondern durch harte Arbeit kontinuierlich weiterentwickeln können. Versuchen Sie, als Moderator\*in eher die Entwicklung der Lernenden zu loben (Anstrengung, Strategien, Entscheidungen) als ihre angeborene Intelligenz (z.B. indem man sagt &quot;Sie sind so klug!&quot;).
 
-Frustrationen eine positive Wendung geben
+**Frustrationen eine positive Wendung geben
 
 Versuchen Sie, Frustrationen in positive Statements zu umzuwandeln und beziehen Sie dabei die Gruppe ein. Wenn z.B. Leute, die an einem Lernteam zu beruflichen Fähigkeiten teilnehmen, unzufrieden mit den im Onlinekurs gegebenen Tipps für Bewerbungsgespräche bzw. Interviews sind, fragen Sie die Gruppenmitglieder, ob ihnen bessere Fragen einfallen. Sie werden feststellen, dass der Onlinekurs oft nur der Ausgangspunkt für Lernende ist, ihre persönlichen Erfahrungen in das Lernteam einzubringen.
 
-Aufgaben delegieren
+**Aufgaben delegieren
 
 Gute Moderation befähigt die Lernenden, selbst Verantwortung dafür zu übernehmen, dass sie etwas lernen, so dass die Rolle des Moderierenden mit der Zeit immer mehr in den Hintergrund tritt. Im Laufe der Lernteam-Treffen können Sie anfangen, die Lernenden zu bitten, Zusatzaufgaben zu übernehmen wie z.B.:
 
@@ -88,15 +86,15 @@ Gute Moderation befähigt die Lernenden, selbst Verantwortung dafür zu überneh
 - Lernenden helfen, die sich schwertun
 - Snacks mitbringen.
 
-Den Prozess feiern, nicht nur das Ergebnis
+**Den Prozess feiern, nicht nur das Ergebnis
 
 Vergessen Sie nicht, mit denen, die am Lernteam teilnehmen, auch Etappen Ihrer gemeinsamen Reise zu feiern. Die Übungen für Check-in und Reflexion sollen Ihnen allen dabei helfen, auf dieser Reise Ansagen zu machen.
 
-Bedenken, dass Moderieren eine Frage der Übung ist
+**Bedenken, dass Moderieren eine Frage der Übung ist
 
 Setzen Sie sich nicht selbst unter Druck, indem Sie denken, Sie müssten sofort „gut darin&quot; sein. Ein Lernteam zu moderieren ist ein kontinuierlicher Prozess des Ausprobierens, Nachdenkens und Wiederholens.
 
-Ein paar Fragen zum Nachdenken, die Sie im Hinterkopf behalten sollten, wenn Sie anfangen:
+**Ein paar Fragen zum Nachdenken, die Sie im Hinterkopf behalten sollten, wenn Sie anfangen:
 
 - Inwiefern könnten meine kulturell bedingten Annahmen meine Interaktion mit Lernenden beeinflussen?
 - Inwiefern könnte der Erfahrungshintergrund von Lernenden ihre Motivation, ihr Engagement und ihr Lernen beeinflussen?
@@ -104,11 +102,11 @@ Ein paar Fragen zum Nachdenken, die Sie im Hinterkopf behalten sollten, wenn Sie
 
 \&gt; Auf unserem Moderationsdashboard finden Sie einen Bereich, in dem Sie nach jedem Lernteam-Treffen eine Rückschau schreiben können. Sie können denen, die an Ihrem Lernteam teilnehmen, und /oder dem P2PU-Team eine Nachricht hinterlassen. Wir ermutigen Sie, diesen Bereich zu nutzen, um über die zunehmenden praktischen Erfahrungen beim Moderieren zu reflektieren.
 
-Unterstützende Aktivitäten
+**Unterstützende Aktivitäten
 
 Es mag beängstigend klingen, ein Lernteam nur unter Rückgriff auf den Inhalt eines Online-Kurses anzuleiten. Hier möchte das Format des Lernteams Hilfestellung leisten. Wir haben eine Reihe von Check-ins, Gruppenaktivitäten und Reflexionen entwickelt, um Sie dabei zu unterstützen, Ihre Treffen zeitlich zu strukturieren. Das Format des Lernteams soll Ihnen helfen – aber falls Sie jemals den Eindruck haben, dass es eher hinderlich ist, fühlen Sie sich frei, es zu ändern. Im Folgenden führen wir ein paar konkrete Beispiele für Aktivitäten auf, die wir in vielen Lernteams eingesetzt haben.
 
-Check-in
+**Check-in
 
 Wie Sie hoffentlich inzwischen erfahren haben, bieten Check-ins der Gruppe den Freiraum, sich zu versammeln und zusammen zu sein, bevor alle an die Arbeit gehen. Check-ins können spielerische ‚Eisbrecher&#39; sein oder nachdenkliche Diskussionen über Ereignisse, die vor kurzem passiert sind. Das Wichtigste ist, dass alle spüren, sie haben eine Chance, sich in der Gruppe neu zu orientieren und alles mitzuteilen, was sie in dieser Woche in das Lernteam einbringen. Hier beispielhaft ein paar Fragen, die unserer Meinung nach geeignet sind:
 
@@ -117,7 +115,7 @@ Wie Sie hoffentlich inzwischen erfahren haben, bieten Check-ins der Gruppe den F
 - Nennen Sie ein Beispiel für eine sinnvolle Lernerfahrung, die Sie gemacht haben. Was hat sie bedeutsam gemacht? Gibt es irgendetwas an dieser Erfahrung, das wir in dieses Lernteam einbringen können?
 - Nennen Sie eine Sache, die Sie jemand anderem beibringen können.
 
-Gruppenaktivitäten
+**Gruppenaktivitäten
 
 Eine gute Gruppenaktivität bietet sowohl Kontextualisierung (was bedeutet das Kursmaterial in Ihrer jetzigen Umgebung?) als auch Personalisierung (wie passt der Kurs zu Ihren persönlichen Zielen und Ihrer Art zu lernen?). Gruppenaktivitäten haben den zusätzlichen Vorteil, dass sie das Gespräch zwischen Lernenden unterstützen, was ein wesentlicher Bestandteil des Peer Learning ist. Wenn eine Aktivität sich nicht von selbst aus dem Kurs ergibt, können Sie bei der Planung diese Ideen in Betracht ziehen:
 
@@ -132,7 +130,7 @@ Eine gute Gruppenaktivität bietet sowohl Kontextualisierung (was bedeutet das K
 - eine Exkursion machen
 - eine Person aus dem eigenen Ort einladen, die referiert bzw. Fachwissen weitergibt
 
-Reflexionsübungen
+**Reflexionsübungen
 
 Eine Reflexionsübung sollte eine Art Schlusspunkt für die Woche bilden. Wie Sie in diesem Kurs schon erfahren haben, bieten Reflexionen jedem eine Gelegenheit, etwas vom Tag zu erzählen. Zusätzlich zum Plus/Delta-Ansatz gibt es folgende Reflexionsfragen:
 
@@ -171,6 +169,6 @@ In einem vorangegangenen Modul haben wir das [learning circle dashboard](https:/
 
 Bevor Sie aktiv werden, nehmen Sie sich ein paar Minuten Zeit, um das [Dashboard](https://learningcircles.p2pu.org/en/) zu erkunden. Wie verändert sich das, was Sie sehen, in Abhängigkeit davon, ob Sie eingeloggt sind oder nicht?
 
-Weitere Lektüre &amp; Ressourcen
+**Weitere Lektüre &amp; Ressourcen
 
 Zwei Ressourcen, auf deren Hilfe wir bei der Planung unserer Lernteams häufig setzen, sind [Liberating Structures](http://www.liberatingstructures.com/) und die [HyperIsland Toolbox](https://toolbox.hyperisland.com/). Jede dieser Websites enthält eine Reihe kostenloser Aktivitäten, die leicht angepasst werden können, um als Check-in, Gruppenaktivität oder Reflexion zu dienen. Wir möchten Sie ermutigen, sie anzusehen und ein Lesezeichen bei Aktivitäten zu setzen, die Sie in Ihrem Lernteam vielleicht einmal ausprobieren möchten.
