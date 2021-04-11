@@ -11,10 +11,10 @@ Weiter oben in diesem Modul haben wir einige Tipps für die Lernteam-Moderation 
 5. In der fünften Woche Ihres Lernteams zum Thema ‚Fiction writing&#39; bemerken Sie, dass eine Person, die normalerweise sehr aufgeschlossen ist, äußerst aufgebracht ist. Sie stört die Gruppe an sich nicht, aber Sie sind besorgt und möchten sicherstellen, dass es ihr gut geht.
 6. Bis zur Mitte der zweiten Woche ist Ihnen klargeworden, dass Sie es bei Ihrem Lernteam zum Thema ‚Spanisch lernen&#39; mit zwei Gruppen von Leuten zu tun haben, deren Lernstand sehr unterschiedlich ist. Es gibt fünf Lernende, die schon fortgeschrittene Anfänger zu sein scheinen, und drei Lernende, die wirkliche Anfänger sind.
 7. Während Ihres ersten Treffens sind einige Gruppenmitglieder begeistert von dem sozialen Aspekt des Lernteams, während ein paar andere einfach nur alleine den Kurs durcharbeiten wollen.
-8. [(Oder nennen Sie Ihre eigenen Szenarios – was befürchten Sie, dass passieren könnte?)](http://p2pu.github.io/makingandlearning/)
+8. Oder nennen Sie Ihre eigenen Szenarios – was befürchten Sie, dass passieren könnte.
 
-[Wenn Sie fertig sind, kommen Sie in der ganzen Gruppe zusammen und diskutieren Sie Ihre Reaktionen und Antworten auf die Szenarien. Welche Moderationstipps fanden Sie am hilfreichsten, als Sie sich überlegt haben, wie man in solchen Fällen reagiert?](http://p2pu.github.io/makingandlearning/)
+Wenn Sie fertig sind, kommen Sie in der ganzen Gruppe zusammen und diskutieren Sie Ihre Reaktionen und Antworten auf die Szenarien. Welche Moderationstipps fanden Sie am hilfreichsten, als Sie sich überlegt haben, wie man in solchen Fällen reagiert?
 
 Zum Schluss überlegen Sie sich als Gruppe eine Definition, was Moderieren für Sie bedeutet.
 
-[Teilen Sie Ihre Gruppendefinition in dem Post &quot;Tips for New Facilitators&quot; auf dem Community Forum. Wenn bei Ihnen noch andere Fälle zur Sprache kamen, können Sie sie uns mitteilen, und zwar innerhalb der Moderationskategorie](http://p2pu.github.io/makingandlearning/)[als neues Thema](https://community.p2pu.org/c/learning-circles/facilitation)
+[Teilen Sie Ihre Gruppendefinition in dem Post &quot;Tips for New Facilitators&quot; auf dem Community Forum. Wenn bei Ihnen noch andere Fälle zur Sprache kamen, können Sie sie uns mitteilen, und zwar innerhalb der Moderationskategorie als neues Thema](https://community.p2pu.org/c/learning-circles/facilitation)
