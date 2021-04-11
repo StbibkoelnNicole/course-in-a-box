@@ -12,11 +12,11 @@ Teams im Sinne von Lernteams übergeordneten Koordinierungsteams bieten eine Mö
 - Fehlen irgendwelche Informationen auf Team-Seiten, die Sie gern auf Ihrer Seite aufnehmen würden?
 - Gibt es irgendwelche Teams, an die Sie sich gerne wenden möchten, um Orientierung zu erhalten, wenn Sie anfangen?
 
-Juliana&#39;s organizer guide
+**Juliana&#39;s organizer guide
 
 P2PU hat eine Website, die der Moderationsseite ähnelt, aber [resources for organizers](https://www.p2pu.org/en/organize/) bietet. Hier finden Sie Ressourcen, die Sie nutzen können, um ein Team von Lernteam-Moderierenden in Ihrer Gegend aufzubauen.
 
-Vor allem können Sie auf dieser Seite ein Exemplar von [Juliana&#39;s Organizer Guide](https://learningcircles.p2pu.org/en/get-organizer-guide/)herunterladen, ein 25-Seiten-Dokument, das wir mit Juliana Muchai zusammengestellt haben, P2PU&#39;s allererster Organisatorin, und ihrem Team beim Kenya National Library Service. Dieser Leitfaden macht sie mit den sechs Schritten zum Aufbau eines Teams bekannt:
+Vor allem können Sie auf dieser Seite ein Exemplar von [Juliana&#39;s Organizer Guide](https://learningcircles.p2pu.org/en/get-organizer-guide/) herunterladen, ein 25-Seiten-Dokument, das wir mit Juliana Muchai zusammengestellt haben, P2PU&#39;s allererster Organisatorin, und ihrem Team beim Kenya National Library Service. Dieser Leitfaden macht sie mit den sechs Schritten zum Aufbau eines Teams bekannt:
 
 1. Orientieren Sie sich an P2PU
 
@@ -30,7 +30,7 @@ Vor allem können Sie auf dieser Seite ein Exemplar von [Juliana&#39;s Organizer
 
 6. Nehmen Sie an der globalen P2PU-Community teil
 
-L[aden Sie Ihr Exemplar des Guides herunter](https://learningcircles.p2pu.org/en/get-organizer-guide/) und sehen Sie ihn 15-20 Minuten durch.
+[Laden Sie Ihr Exemplar des Guides herunter](https://learningcircles.p2pu.org/en/get-organizer-guide/) und sehen Sie ihn 15-20 Minuten durch.
 
 ![](RackMultipart20210407-4-1ctazjj_html_dc5e48e2dbd0524b.png)Ein Koordinierungsteam zusammenstellen
 
