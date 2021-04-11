@@ -1,7 +1,7 @@
 
 ## Lesen und Ansehen
 
-[_Vorgeschlagene Zeit: 35 Minuten_](https://learningcircles.p2pu.org/en/studygroup/create/?course_id=480)
+_Vorgeschlagene Zeit: 35 Minuten_
 
 Eine kurze Geschichte des Online-Lernens
 
