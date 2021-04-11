@@ -1,6 +1,6 @@
 ## Aktivitäten
 
-_Vorgeschlagene Zeit: 35 Minuten _
+_Vorgeschlagene Zeit: 35 Minuten_
 
 Ein Lernteam zu erstellen, dauert nur ungefähr fünf Minuten, wenn Sie schon Ihren Plan gemacht haben. Für diese Aktivität haben wir einige Fragen entwickelt, die Ihnen auf dem Weg zum Veröffentlichen Ihrer ersten Lernteam-Veranstaltung helfen werden.
 
