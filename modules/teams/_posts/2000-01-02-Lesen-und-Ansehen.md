@@ -32,7 +32,7 @@ Vor allem können Sie auf dieser Seite ein Exemplar von [Juliana&#39;s Organizer
 
 [Laden Sie Ihr Exemplar des Guides herunter](https://learningcircles.p2pu.org/en/get-organizer-guide/) und sehen Sie ihn 15-20 Minuten durch.
 
-:hammer_and_wrench: **Ein Koordinierungsteam zusammenstellen**
+🛠️ **Ein Koordinierungsteam zusammenstellen**
 
 Wenn Sie ein Koordinierungsteam ins Leben rufen, erhalten Sie alle dadurch Zugang zu neuen Features in Ihrem Moderationsdashboard. Dazu gehört:
 
