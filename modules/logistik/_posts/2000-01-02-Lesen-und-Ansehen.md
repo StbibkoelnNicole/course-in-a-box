@@ -60,7 +60,7 @@ Wenn Sie mehr Feedback zu dem Programmdesign brauchen, möchten Sie vielleicht e
 
 Hier sind einige abschließende Gedanken von der P2PU-Community zum Thema [how to best promote learning circles](https://www.youtube.com/embed/QEi5_MJpLMc).
 
-![](RackMultipart20210407-4-z2vx98_html_484045cf0a9aaa99.png)Wie man ein Lernteam auf der P2PU-Website anlegt
+:hammer_and_wrench: **Wie man ein Lernteam auf der P2PU-Website anlegt**
 
 Wenn Sie Ihren Kurs ausgewählt haben und bestätigt haben, wo und wann Sie sich treffen wollen, ist es an der Zeit, Ihr Lernteam auf der [P2PU website](https://learningcircles.p2pu.org/en/studygroup/create/) anzulegen!
 
@@ -85,7 +85,7 @@ Sie können Ihr Lernteam jederzeit [durch Ihr Moderationsdashboard](https://lear
 - E-Mails oder SMS-Nachrichten an einzelne Lernende oder die ganze Gruppe schicken
 - Wöchentlich Feedback austauschen mit Lernenden, Ihren Kolleginnen und Kollegen und P2PU
 
-![](RackMultipart20210407-4-z2vx98_html_cdb3f0978fc2e0ad.png)Kommunikation und Feedback
+:hammer_and_wrench: **Kommunikation und Feedback**
 
 Feedback ist ein wichtiger Teil des Peer Learning, und die Tools von P2PU helfen, während der Dauer des Lernteams Informationen zwischen Lernenden, Moderierenden und dem P2PU-Team auszutauschen. P2PU legt größten Wert auf die Privatsphäre der Benutzer\*innen und hält sich an die European Union General Data Protection Regulation (GDPR). Hier ein Beispiel für die Art der Kommunikation, die Sie während eines Lernteams erwarten können:
 
