@@ -17,4 +17,4 @@ Wenn Sie fertig sind, kommen Sie in der ganzen Gruppe zusammen und diskutieren S
 
 Zum Schluss überlegen Sie sich als Gruppe eine Definition, was Moderieren für Sie bedeutet.
 
-Teilen Sie Ihre Gruppendefinition in dem Post [Tips for New Facilitators](https://community.p2pu.org/t/tips-for-new-facilitators/2730); auf dem Community Forum. Wenn bei Ihnen noch andere Fälle zur Sprache kamen, können Sie sie uns mitteilen, und zwar [innerhalb der Moderationskategorie als neues Thema](https://community.p2pu.org/c/learning-circles/facilitation).
+Teilen Sie Ihre Gruppendefinition in dem Post [Tips for New Facilitators](https://community.p2pu.org/t/tips-for-new-facilitators/2730) auf dem Community Forum. Wenn bei Ihnen noch andere Fälle zur Sprache kamen, können Sie sie uns mitteilen, und zwar [innerhalb der Moderationskategorie als neues Thema](https://community.p2pu.org/c/learning-circles/facilitation).
