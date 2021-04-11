@@ -3,7 +3,7 @@
 
 _Vorgeschlagene Zeit: 35 Minuten_
 
-Lernteams in der Praxis
+**Lernteams in der Praxis**
 
 Leute entscheiden sich aus verschiedenen Gründen für die Teilnahme an Lernteams, z.B. um sich beruflich weiterzubilden, als Ergänzung ihrer formalen Bildung und um neue soziale Kontakte zu knüpfen. Ihre Aufgabe als Moderierende ist es, allen Lernenden dabei zu helfen, die Ziele zu erreichen, die sie sich gesteckt haben, ohne Fachleute für das Thema zu sein. In diesem Abschnitt werden wir der Frage nachgehen, was gutes Moderieren bedeutet. Zu Beginn wollen wir uns einige konkrete Beispiele von Lernteam-Veranstaltungen ansehen, die in letzter Zeit durchgeführt wurden.
 
@@ -29,7 +29,7 @@ Joseck überlegte sich schnell eine Strategie, um Lernende mit mehr Expertise zu
 
 Während er dies tat, experimentierte Purity mit verschiedenen anderen Themen, z.B. Reden in der Öffentlichkeit und Kompetenzen für Interviews. Im Jahr 2017 hatte sie gerade vor, mit einem Lernteam zum Thema Community Journalism anzufangen, als der Kurs einige Tage vor dem Treffen offline gestellt wurde (mehr als 30 Leute hatten sich angemeldet!). Sie wandte sich an P2PU und wir konnten die Universität kontaktieren und erreichen, dass sie den Inhalt für die Gruppe freigab. Aber während das geschah, passierte etwas Unglaubliches – die Gruppe kam zum ersten Treffen, es gab noch keinen Kurs und sie kamen gut zurecht. Jemand kontaktierte einen Freund, der Journalist war, einige andere Leute fanden kostenlose Online-Ressourcen, und die Gruppe war in der Lage, ohne einen Kurs das Nötige zu tun, in dem Bewusstsein, dass jede Person, die gekommen war, Interesse an Community-Journalismus und persönliche Lebenserfahrung hatte, die sie in die Gruppe einbringen konnte. Purity hat selber 12 Lernteams geleitet und 300 Bibliotheksbesucherinnen bzw. -besucher dadurch erreicht. Neulich hat sie zwei Lernteams zu den Basics der Zeichensprache veranstaltet.
 
-**Aufgaben der moderierenden Person
+**Aufgaben der moderierenden Person**
 
 Lassen Sie uns aus diesen Beispielen Schlüsse ziehen und einige der typischen Aufgaben ansprechen, die Sie als Moderator\*in haben werden. Dazu haben wir auch ein [Video](https://www.youtube.com/embed/tr79oP_cg1M) erstellt, dass Sie sich gerne anschauen können.
 
