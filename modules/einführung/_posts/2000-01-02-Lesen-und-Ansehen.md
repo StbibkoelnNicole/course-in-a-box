@@ -3,7 +3,7 @@
 
 _Vorgeschlagene Zeit: 30 Minuten_
 
-Willkommen bei P2PU
+**Willkommen bei P2PU
 
 Peer 2 Peer University (wir sagen meistens P2PU) ist eine basisdemokratische Organisation, deren Mission darin besteht, Alternativen zur formalen Bildung zu schaffen, die praktikabel sind und als befreiend erlebt werden. Unser Haupt-Projekt nennt sich Learning Circles; das sind Gruppen von Leuten, die sich persönlich treffen, um etwas zusammen zu lernen, wobei sie freie Onlinekurse oder andere Lernressourcen nutzen.
 
@@ -12,19 +12,19 @@ P2PU ist ein kleines Team, aber Lernteams haben sich mittlerweile auf sechs Kont
 P2PU wird von den drei Werten Gleichheit, Gemeinschaft und Peer-Learning bestimmt. Sie können auf unserer Website mehr darüber lesen, was diese für uns bedeuten:
  https://koeln.p2pu.org/about.
 
-Was ist ein Lernteam?
+**Was ist ein Lernteam?
 
 Einfach gesagt ist ein Lernteam eine Gruppe von Leuten, die sich an einem Ort treffen, um gemeinsam etwas zu lernen. Jedes Lernteam sieht ein bisschen anders aus, aber alle haben ein paar Dinge gemeinsam.
 
-Kostenlos
+**Kostenlos
 
 Lernteams nutzen frei zugängliche Lernmaterialien wie z.B. Onlinekurse. Damit einher geht die Erwartung, dass Lernende keine Gebühr o.ä. zahlen müssen, um an einem Lernteam teilzunehmen, und dass man nichts zahlen muss, wenn man ein Lernteam ins Leben ruft.
 
-Regelmäßig
+**Regelmäßig
 
 Lernteams treffen sich meistens 90 Minuten pro Woche für 6-8 Wochen, aber das ist flexibel und ist abhängig vom Kurs und von Ihren Zielen. Im Allgemeinen stellen wir fest, dass Lernteams, die weniger als 4 Wochen lang stattfinden, nicht genug Zeit haben, um ein Gruppengefühl entstehen zu lassen; wenn Lernteams für mehr als 8 Wochen angesetzt werden, kann das abschreckend wirken, weil man sich so lange zeitlich festlegen muss. Auch wenn einige Gruppen sich nach dem Ende des eigentlichen Lernteams unbegrenzt weiter treffen, sollte man das nicht im Voraus erwarten.
 
-Moderiert
+**Moderiert
 
 Jedes Lernteam hat eine Moderatorin oder einen Moderator, die keine Fachleute für das jeweilige Thema sein müssen, d.h. mit ein bisschen Praxis und Training kann jede Person moderieren. Diese Person ist jede Woche Gastgeberin und hat außerdem auch folgende Aufgaben:
 
@@ -36,7 +36,7 @@ Jedes Lernteam hat eine Moderatorin oder einen Moderator, die keine Fachleute f�
 - Gruppendiskussionen leiten
 - Wissensdurst und Erkundungsfreude fördern
 
-Kooperativ
+**Kooperativ
 
 Lernteams sind im Peer Learning verwurzelt – das ist eine Methode, die die Erfahrung und Expertise jedes Teilnehmenden wertschätzt. Drei Werte liegen dem P2PU-Konzept des Peer Learning zugrunde:
 
@@ -48,7 +48,7 @@ Peer Learning kann eine reichhaltige Lernumgebung schaffen, in der alle gleichze
 
 Indem Sie eine Gruppe von Lernenden um sich versammeln, die an ähnlichen Themen interessiert sind, haben Sie die Basis für eine offene kooperative Lernumgebung und ein hilfreiches Unterstützungssystem. Wir haben festgestellt, dass Lernteams am besten funktionieren, wenn die Zahl der Lernenden zwischen 4 und 15 liegt. Wenn es eine andere Gruppengröße ist, kann das eine Zusatzbelastung für Sie als Moderierende bedeuten. Trotzdem gab es erfolgreiche Dreiergruppen, die zusammen Kurse durchgearbeitet haben, und Lernteams mit sage und schreibe 60 Leuten, die durch ein Team von Moderierenden unterstützt wurden!
 
-Strukturiert
+**Strukturiert
 
 Jedes Lernteam-Treffen hat dieselbe zugrunde liegende Struktur: ein Check-in, eine Zeitspanne, in der Hintergrundmaterialien angesehen und gelesen werden, eine Gruppenaktivität (tun/machen/sagen/denken) und Zeit für Reflexion.
 
@@ -78,7 +78,7 @@ Und nun können wir die Ratschläge von einigen P2PU-Moderatoren hören, wie man
 
 [How is a Learning Circle different from a class](https://www.youtube.com/embed/1uhBWqLXlBY)
 
-Weitere Lektüre und Ressourcen
+**Weitere Lektüre und Ressourcen
 
 Die Ideen, auf denen die Lernteams fußen, sind nicht neu. Im Gegenteil, es gibt ein weit zurückreichendes und bedeutsames pädagogisches Erbe, was Bildungsformen angeht, die auf Gleichberechtigung setzen; ihnen zollt P2PU durch die Arbeit mit den Lernteams Anerkennung. Wir haben eine kurze Geschichte des Lernens in einem Kreis (im Sinne von Gruppe) zusammengestellt, und zwar [auf unserem community forum](https://community.p2pu.org/t/the-history-of-learning-in-a-circle/2777); Sie sind zum Lesen und Kommentieren eingeladen. Wir lassen uns von Texten unseres kulturellen Erbes und epochalen sozialen Bewegungen inspirieren, und ebenso von modernen Bewegungen, die sich gegen die Dominanz der formalen Bildung aussprechen.
 
