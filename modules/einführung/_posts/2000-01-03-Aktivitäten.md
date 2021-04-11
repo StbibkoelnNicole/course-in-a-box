@@ -1,6 +1,6 @@
 Aktivitäten
 
-Vorgeschlagene Zeit: 30 Minuten
+_Vorgeschlagene Zeit: 30 Minuten_
 
 Legen Sie einen P2PU Account an
 
