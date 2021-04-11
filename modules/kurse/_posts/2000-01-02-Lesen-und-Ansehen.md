@@ -74,21 +74,17 @@ Im September 2019 stellten wir diese Frage Lernteam-Moderierenden, die in der Bo
 
 ![alt](/img/liste.png)
 
-![alt](/img/logo.png)
 
 **Neue Kurse erstellen**
 
 In einigen Fällen haben Moderatoren ihre Kurse selbst erstellt. Hier ein paar Beispiele, wie das aussehen kann:
 
-[Tinkercad in Cambridge, MA](https://learningcircles.p2pu.org/en/studygroup/create/?course_id=480)
-
-![](/img/grafik2.jpg)
-![](RackMultipart20210407-4-1emejg6_html_8dedc43d81cb24cb.jpg)
+Tinkercad in Cambridge, MA
 
 Suzannah, eine Bibliothekarin in Cambridge, MA, hat ein paar Mal Lernteams zu [Tinkercad](https://www.tinkercad.com/) veranstaltet, der freien web-basierten 3D-Modellierungssoftware. Tinkercad ist allerdings kein Kurs, sondern nur ein Tool. Aber nachdem sie zwei Lernteams veranstaltet hatte, war Suzannah in der Lage, ein [Kurskonzept für eine vierwöchige Lernteam-Veranstaltung](https://community.p2pu.org/t/3d-printing-spokane-county-library-district/4020/9) zu erstellen, das sie dann auf unserem Community-Forum für andere Moderierende zur Verfügung stellte, die an Tinkercad interessiert sind.
 
-Fiction Writing in Boston, MA
 
+Fiction Writing in Boston, MA
 
 Auf der anderen Seite des Charles River fand Jordan, eine Bibliothekarin in Boston, MA, die Auswahl an frei verfügbaren Kursen zum Schreiben von belletristischen Texten nicht zufriedenstellend. Da sie selbst schriftstellerisch tätig ist, erstellte sie eine Seite mit Wordpress und konzipierte dann [einen Kurs zum belletristischen Schreiben für Anfänger](https://learntowritefiction.net/home/writing-courses/learn-to-write-fiction-beginner-course/learn-to-write-fiction-beginner-course-overview/), der speziell auf eine achtwöchige Lernteam-Veranstaltung zugeschnitten war. Der Kurs war so erfolgreich, dass sie seitdem 2 weitere Kurse konzipiert hat: einen über [world building](https://learntowritefiction.net/home/writing-courses/world-building-course/) und den anderen über [das Schreiben von Serien](https://learntowritefiction.net/home/writing-courses/writing-a-series/). Alle drei Kurse sind jetzt auf der P2PU-Kursseite zu finden. Wenn Sie mehr darüber lesen wollen – Jordans Erfahrungen waren 2019 auch ein Thema auf [The Writing Platform](http://thewritingplatform.com/2019/01/online-learning-offline-fiction-writing-learning-circles-at-boston-public-library/), einer Online-Community für Autoren.
 
