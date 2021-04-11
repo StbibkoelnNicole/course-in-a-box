@@ -1,7 +1,7 @@
 
 ## Lesen &amp; Ansehen
 
-_Vorgeschlagene Zeit: 30 Minuten _
+_Vorgeschlagene Zeit: 30 Minuten_
 
 Einen Überblick über aktuelle Koordinierungsteams gewinnen
 
