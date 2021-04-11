@@ -87,7 +87,6 @@ Suzannah, eine Bibliothekarin in Cambridge, MA, hat ein paar Mal Lernteams zu [T
 
 Fiction Writing in Boston, MA
 
-![alt](/img/Grafik3.png)
 ![](RackMultipart20210407-4-1emejg6_html_f2f627a3f9a98cd3.jpg)
 
 ![alt](/img/Grafik3.png)
