@@ -40,7 +40,7 @@ Die Q-Methode
 
 Die Q-Methode bedeutet, dass man einen öffentlichen Aushang macht, der zur Beteiligung einlädt; damit erhält man Feedback zu Kursthemen, an denen Leute interessiert sind. Die Methode ist nach unserer Freundin Qumisha (a.k.a. Q) aus der Detroit Public Library benannt, die auf diese Idee kam – als Möglichkeit, Lernteams in ihrer Zweigstelle zu einem höheren Bekanntheitsgrad zu verhelfen.
 
-[The Q method in action](https://community.p2pu.org/uploads/default/original/1X/833de6b1554b25041b78c207017c36fdbf316714.jpg)
+The Q method in action
 
 Wie Sie an dem Beispiel oben sehen können, war der beliebteste Kurs (20 Stimmen) Marketing in a Digital World. Den zweiten Platz teilten sich Introduction to Public Speaking und Social Entrepreneurship 101; beide erhielten 16 Stimmen. Auf der Grundlage dieser Ergebnisse bot Q sowohl den Marketingkurs als auch den Kurs zum Public Speaking als Lernteam-Veranstaltungen an.
 
