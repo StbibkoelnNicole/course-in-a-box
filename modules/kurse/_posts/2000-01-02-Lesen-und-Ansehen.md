@@ -88,9 +88,7 @@ Suzannah, eine Bibliothekarin in Cambridge, MA, hat ein paar Mal Lernteams zu [T
 
 Fiction Writing in Boston, MA
 
-![](RackMultipart20210407-4-1emejg6_html_f2f627a3f9a98cd3.jpg)
 
-![alt](/img/Grafik3.png)
 Auf der anderen Seite des Charles River fand Jordan, eine Bibliothekarin in Boston, MA, die Auswahl an frei verfügbaren Kursen zum Schreiben von belletristischen Texten nicht zufriedenstellend. Da sie selbst schriftstellerisch tätig ist, erstellte sie eine Seite mit Wordpress und konzipierte dann [einen Kurs zum belletristischen Schreiben für Anfänger](https://learntowritefiction.net/home/writing-courses/learn-to-write-fiction-beginner-course/learn-to-write-fiction-beginner-course-overview/), der speziell auf eine achtwöchige Lernteam-Veranstaltung zugeschnitten war. Der Kurs war so erfolgreich, dass sie seitdem 2 weitere Kurse konzipiert hat: einen über [world building](https://learntowritefiction.net/home/writing-courses/world-building-course/) und den anderen über [das Schreiben von Serien](https://learntowritefiction.net/home/writing-courses/writing-a-series/). Alle drei Kurse sind jetzt auf der P2PU-Kursseite zu finden. Wenn Sie mehr darüber lesen wollen – Jordans Erfahrungen waren 2019 auch ein Thema auf [The Writing Platform](http://thewritingplatform.com/2019/01/online-learning-offline-fiction-writing-learning-circles-at-boston-public-library/), einer Online-Community für Autoren.
 
 Es gibt natürlich keine Verpflichtung, selbst einen Kurs zu erstellen, wenn man ein Lernteam organisiert. Aber wenn es Sie interessiert, möchten wir Sie ermutigen, [Course in a Box](https://howto.p2pu.org/) auszuprobieren, das von uns entwickelte Open-Source-Tool, mit dem man Onlinekurse ausarbeiten kann. Wir haben Course in a Box genutzt, um diesen Kurs zu entwerfen, und wir haben auch mit Partnern zusammengearbeitet, um andere Kurse zu konzipieren, die für Lernteams gedacht sind, wie z.B. [Making and Learning](http://p2pu.github.io/makingandlearning/).
