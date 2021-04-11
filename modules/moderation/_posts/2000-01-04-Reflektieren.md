@@ -1,7 +1,7 @@
 
-## [Reflektieren: Moderation ist Übungssache](http://p2pu.github.io/makingandlearning/)
+## Reflektieren: Moderation ist Übungssache
 
-_Vorgeschlagene Zeit: 10 Minuten _
+_Vorgeschlagene Zeit: 10 Minuten_
 
 Nachdem Sie diesen Kurs durchgearbeitet haben, was überrascht Sie, wenn Sie über sich selbst als Moderator\*in nachdenken?
 
