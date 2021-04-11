@@ -1,4 +1,4 @@
-## [Reflektieren: Plus/Delta](http://p2pu.github.io/makingandlearning/)
+## Reflektieren: Plus/Delta
 
 _Vorgeschlagene Zeit: 10 Minuten_
 
