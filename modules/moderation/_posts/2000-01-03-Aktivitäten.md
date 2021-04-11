@@ -11,7 +11,7 @@ Weiter oben in diesem Modul haben wir einige Tipps für die Lernteam-Moderation 
 5. In der fünften Woche Ihres Lernteams zum Thema ‚Fiction writing&#39; bemerken Sie, dass eine Person, die normalerweise sehr aufgeschlossen ist, äußerst aufgebracht ist. Sie stört die Gruppe an sich nicht, aber Sie sind besorgt und möchten sicherstellen, dass es ihr gut geht.
 6. Bis zur Mitte der zweiten Woche ist Ihnen klargeworden, dass Sie es bei Ihrem Lernteam zum Thema ‚Spanisch lernen&#39; mit zwei Gruppen von Leuten zu tun haben, deren Lernstand sehr unterschiedlich ist. Es gibt fünf Lernende, die schon fortgeschrittene Anfänger zu sein scheinen, und drei Lernende, die wirkliche Anfänger sind.
 7. Während Ihres ersten Treffens sind einige Gruppenmitglieder begeistert von dem sozialen Aspekt des Lernteams, während ein paar andere einfach nur alleine den Kurs durcharbeiten wollen.
-8. Oder nennen Sie Ihre eigenen Szenarios – was befürchten Sie, dass passieren könnte.
+8. (Oder nennen Sie Ihre eigenen Szenarios – was befürchten Sie, dass passieren könnte?)
 
 Wenn Sie fertig sind, kommen Sie in der ganzen Gruppe zusammen und diskutieren Sie Ihre Reaktionen und Antworten auf die Szenarien. Welche Moderationstipps fanden Sie am hilfreichsten, als Sie sich überlegt haben, wie man in solchen Fällen reagiert?
 
