@@ -12,7 +12,7 @@ Teams im Sinne von Lernteams übergeordneten Koordinierungsteams bieten eine Mö
 - Fehlen irgendwelche Informationen auf Team-Seiten, die Sie gern auf Ihrer Seite aufnehmen würden?
 - Gibt es irgendwelche Teams, an die Sie sich gerne wenden möchten, um Orientierung zu erhalten, wenn Sie anfangen?
 
-**Juliana&#39;s organizer guide
+**Juliana&#39;s organizer guide**
 
 P2PU hat eine Website, die der Moderationsseite ähnelt, aber [resources for organizers](https://www.p2pu.org/en/organize/) bietet. Hier finden Sie Ressourcen, die Sie nutzen können, um ein Team von Lernteam-Moderierenden in Ihrer Gegend aufzubauen.
 
