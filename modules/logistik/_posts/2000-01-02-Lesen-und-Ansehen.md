@@ -3,7 +3,7 @@
 
 _Vorgeschlagene Zeit: 35 Minuten_
 
-Ein Lernteam vorbereiten
+**Ein Lernteam vorbereiten**
 
 Ein Lernteam zu moderieren kostet die moderierende Person ungefähr drei Stunden pro Woche, die sie größtenteils in dem eigentlichen Lernteam verbringt. Außerdem braucht man Zeit, um jede Woche alles herzurichten und aufzuräumen, um zwischen den Treffen mit den Lernenden zu kommunizieren und sich mit den Kursmaterialien für die Folgewoche vertraut zu machen.
 
@@ -32,11 +32,11 @@ Wir empfehlen, dass Sie Ihr für Ihr erstes Lernteam eine Vorlaufzeit von mindes
 
 Sie können diese Liste auch als [PDF Checklist](https://docs.google.com/document/d/1j71Y8Izmv1nnB352DQ4DDMpRJPTALaZiAoJ-zCNQR6g/edit?usp=sharing) herunterladen und die Kategorie &quot;[Promotion and Outreach](https://community.p2pu.org/t/about-the-promotion-and-outreach-category/2698)&quot; auf unserem Community Forum ansehen, die einige Vorlagen für Flyer, Ideen für Benachrichtigungen und Logos bietet, die Sie nutzen können, um Ihr Lernteam bekannter zu machen!
 
-Input aus der Bürgerschaft sammeln
+**Input aus der Bürgerschaft sammeln**
 
 Bevor Sie anfangen, Lernteam-Veranstaltungen zu organisieren, möchten Sie vielleicht ein kleines Outreach-Projekt in Ihrer Kommune durchführen, um Ihre Pläne publik zu machen und um die Bedürfnisse potentieller Lernteam-Teilnehmer\*innen besser zu verstehen. Im Folgenden umreißen wir einige Möglichkeiten, die die P2PU-Community entwickelt oder genutzt hat, um Meinungen der Bürger\*innen in die Programmplanung für die Lernteams einzubeziehen!
 
-**Die Q-Methode
+**Die Q-Methode**
 
 Die Q-Methode bedeutet, dass man einen öffentlichen Aushang macht, der zur Beteiligung einlädt; damit erhält man Feedback zu Kursthemen, an denen Leute interessiert sind. Die Methode ist nach unserer Freundin Qumisha (a.k.a. Q) aus der Detroit Public Library benannt, die auf diese Idee kam – als Möglichkeit, Lernteams in ihrer Zweigstelle zu einem höheren Bekanntheitsgrad zu verhelfen.
 
@@ -46,11 +46,11 @@ Wie Sie an dem Beispiel oben sehen können, war der beliebteste Kurs (20 Stimmen
 
 Das Großartige an der Q-Methode ist, dass sie die Bürger einlädt, einen Beitrag zur Themenwahl zu leisten und gleichzeitig das Programm bekannter macht. Dieses Konzept ist im Anschluss daran auch von Lernteam-Moderierenden in anderen Teilen der Welt genutzt worden und könnte auch in anderen Bereichen zur Anwendungen kommen, wo es um das Feedback einer Gruppe geht, wie z.B. bei der strategischen Planung, beim Programmieren von Entscheidungsfindungsprozessen und beim Verständnis von Community-Zufriedenheit und Community-Engagement. In unserem Community Forum können Sie eine Vorlage herunterladen ([download a template](https://community.p2pu.org/t/q-method-for-documenting-community-interests/2699/2)), um Ihre eigene Q-Methode zu entwickeln und zu sehen, wie andere sie anderswo auf der Welt umgesetzt haben.
 
-**Fokusgruppen
+**Fokusgruppen**
 
 Wenn Sie mehr Feedback zu dem Programmdesign brauchen, möchten Sie vielleicht eine kleine Gruppe von Leuten versammeln und sie fragen, was sie von Lernteams erwarten. Das ist eine gute Möglichkeit, nicht nur Informationen und Erkenntnisse zu gewinnen, sondern auch Menschen kennenzulernen und Beziehungen aufzubauen. In Kenia veranstalten Bibliotheken Fokusgruppen als Teil ihres Lernteam-Trainings; wir haben ihre Fokusgruppen-Fragen für Sie [im Forum](https://community.p2pu.org/t/library-patron-focus-group/3129) aufbereitet.
 
-**Partnerschaften mit bestimmten Gruppen
+**Partnerschaften mit bestimmten Gruppen**
 
 [How do I know what people want to learn?](https://www.youtube.com/embed/PCnrq1iisf8?start=131)- sehen Sie sich diesen Videoclip von Athanasia Fitos an, einer Bibliothekarin aus Miami, in dem die Rolle von Community Partnerships für den Aufbau einer erfolgreichen Lernteam-Community thematisiert wird. Während Sie ihn ansehen, überlegen Sie sich (oder besprechen Sie) Antworten auf diese Fragen:
 
@@ -91,17 +91,17 @@ Feedback ist ein wichtiger Teil des Peer Learning, und die Tools von P2PU helfen
 
 [P2PU Feedback-Tools](https://community.p2pu.org/uploads/default/original/2X/9/992ae54c06126b5c73ace33ba270cdc477fb0225.png)
 
-**Bei der Anmeldung
+**Bei der Anmeldung**
 
 Wenn Moderierende ein Lernteam neu eintragen, werden sie aufgefordert, ihre Ziele für das Moderieren eines Lernteams zu nennen und anzugeben, ob sie irgendwelche Fragen oder Anliegen haben. Ihre Antworten werden einer Gruppe von Leuten mitgeteilt, die Moderierenden helfen können. Entsprechend werden die Lernenden bei der Anmeldung gefragt, welche Ziele sie mit der Teilnahme an einem Lernteam verbinden. Dann werden sie ihrer Moderatorin oder ihrem Moderator in einer E-Mail vorgestellt, die ihre Antworten auf die bei der Anmeldung gestellten Fragen enthält.
 
-**Während der Lernteam-Veranstaltung
+**Während der Lernteam-Veranstaltung**
 
 Jede Woche erhalten die Lernenden automatisch zwei Tage vorher eine Erinnerungsbenachrichtigung per E-Mail oder SMS. Bevor die Erinnerung versendet wird, haben Sie die Möglichkeit, sich im Dashboard einzuloggen und die Nachricht an die Bedürfnisse Ihrer Gruppe anzupassen.
 
 Nach jedem wöchentlichen Treffen können Sie eine Wochenrückschau im Dashboard eintragen und sie Ihren Lernenden und/oder P2PU schicken.
 
-**Nach Beendigung
+**Nach Beendigung**
 
 Am Ende der Lernteam-Veranstaltung erhalten die Lernenden und Moderatoren eine E-Mail, die einen Link zu einer Umfrage enthält, mit der Bitte, sich im Hinblick auf das Ziel, das sie sich am Anfang gesetzt haben, Gedanken zu machen – was ist gut gelaufen, was könnte verbessert werden und was werden ihre nächsten Schritte sein.
 
@@ -109,7 +109,7 @@ Die Antworten zu den Umfragen werden dazu genutzt, eine Zusammenfassung der Lern
 
 In der letzten Woche der Lernteam-Veranstaltung möchten Sie den Lernenden vielleicht Bescheinigungen/Zertifikate geben. Mehr darüber lesen und eine Vorlage für eine Bescheinigung herunterladen können Sie [auf unserem Community Forum](https://community.p2pu.org/t/certificate-template/2784).
 
-**Weitere Lektüre &amp; Ressourcen
+**Weitere Lektüre &amp; Ressourcen**
 
 Wir möchten Sie natürlich ermutigen, alle möglichen von Ihnen bereits genutzten Strategien anzuwenden, um die Bedürfnisse der Lernenden kennenzulernen und Bürger zu erreichen, ob das ein Gespräch mit einer Person an der Ausleihtheke ist oder moderierte Workshops. Es gibt einige Ressourcen, die Ihnen helfen können, neue Formen der Öffentlichkeitsarbeit zu entdecken. Vor allem empfehlen wir:
 
