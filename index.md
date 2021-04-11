@@ -14,6 +14,14 @@ Dieses Training ist so konzipiert, das es als Lernteam durchgeführt werden kann
 
 <br>
 
-![alt](https://www.p2pu.org/assets/images/p2pu-logo.png)
+![alt](https://www.p2pu.org/assets/images/p2pu-logo.png)  
+
+Autor: Grif Peterson, Peer 2 Peer University
+
+Bearbeitung: Magdalena Jackiewicz
+
+Deutsche Übersetzung: Stadtbibliothek Köln
+
+Herausgegeben von: Information Society Development Foundation, 2020
 
 
