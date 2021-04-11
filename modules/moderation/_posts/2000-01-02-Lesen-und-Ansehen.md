@@ -143,7 +143,7 @@ Eine Reflexionsübung sollte eine Art Schlusspunkt für die Woche bilden. Wie Si
 
 Reflexionen müssen nicht immer in der ganzen Gruppe stattfinden – Sie können auch für kleine Zweiergruppen oder persönliche (Einzel-)Reflexionen plädieren.
 
-:hammer_and_wrench: **Eine praxisorientierte Community für Moderierende**
+🛠️ **Eine praxisorientierte Community für Moderierende**
 
 Feedback zu erhalten ist nötig, um sich zu verbessern, sowohl wenn man an einem Lernteam teilnimmt als auch wenn man es moderiert. Wenn Sie ein Lernteam moderieren, bedeutet das deshalb, dass Sie eingeladen werden, Ihre Erfahrungen mitzuteilen und mit anderen Moderator\*innen aus aller Welt zu reflektieren und Probleme anzugehen. Auch wenn Ihr Lernteam sich persönlich trifft und unsere Praxis-Community weitgehend virtuell ist, ist uns daran gelegen, dieselben P2PU-Werte in unserer Praxis-Community zugrunde zu legen, sodass Sie Ihre Moderationsmethoden weiter verfeinern können, wenn Sie Moderierende treffen. Hier sind einige der wichtigsten Komponenten unserer Praxis-Community:
 
@@ -155,7 +155,7 @@ Feedback zu erhalten ist nötig, um sich zu verbessern, sowohl wenn man an einem
 - [Learning circle insights](https://community.p2pu.org/t/learning-circle-insights-are-now-available/3056): Jedes Lernteam hat die Gelegenheit, seine Erfahrungen auf Feedback-Formularen mitzuteilen, die wir Moderierenden und Lernenden schicken.
 - Social Media: Wir ermutigen Moderierende und Lernende, das, was sie während des Lernteams lernen, auf [Twitter](https://twitter.com/P2PU), [Instagram](https://www.instagram.com/p2puniversity/), [Flickr](https://www.flickr.com/groups/p2pu/), und [Facebook](https://www.facebook.com/P2PUniversity) mitzuteilen. #learningcircles.
 
-:yarn: **Ihr Moderationsdashboard**
+🛠️ **Ihr Moderationsdashboard**
 
 In einem vorangegangenen Modul haben wir das [learning circle dashboard](https://learningcircles.p2pu.org/en/) als Plattform eingeführt, wo man die Angaben zu den Lernteams editieren kann. Außerdem sammelt Ihr Dashboard die neuesten und interessantesten Informationen aus der ganzen P2PU-Praxis-Community und zeigt sie Ihnen an einer Stelle. Sie werden dort einige besondere Ressourcen sehen, z.B.:
 
