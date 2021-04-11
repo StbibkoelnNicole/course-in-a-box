@@ -80,7 +80,7 @@ In einigen Fällen haben Moderatoren ihre Kurse selbst erstellt. Hier ein paar B
 
 [Tinkercad in Cambridge, MA](https://learningcircles.p2pu.org/en/studygroup/create/?course_id=480)
 
-![](/img/Grafik2.png)
+![](/img/grafik2.jpg)
 ![](RackMultipart20210407-4-1emejg6_html_8dedc43d81cb24cb.jpg)
 
 Suzannah, eine Bibliothekarin in Cambridge, MA, hat ein paar Mal Lernteams zu [Tinkercad](https://www.tinkercad.com/) veranstaltet, der freien web-basierten 3D-Modellierungssoftware. Tinkercad ist allerdings kein Kurs, sondern nur ein Tool. Aber nachdem sie zwei Lernteams veranstaltet hatte, war Suzannah in der Lage, ein [Kurskonzept für eine vierwöchige Lernteam-Veranstaltung](https://community.p2pu.org/t/3d-printing-spokane-county-library-district/4020/9) zu erstellen, das sie dann auf unserem Community-Forum für andere Moderierende zur Verfügung stellte, die an Tinkercad interessiert sind.
