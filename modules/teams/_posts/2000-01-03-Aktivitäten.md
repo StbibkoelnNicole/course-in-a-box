@@ -4,7 +4,7 @@ _Vorgeschlagene Zeit: 40 Minuten_
 
 Diese Aktivität besteht aus zwei Teilen. Der erste Teil soll Sie anregen, über die Rolle derjenigen nachzudenken, die in Ihrer Institution die Rolle der Organisierenden übernehmen. Im zweiten Teil werden wir das von P2PU zur Verfügung gestellte Arbeitsblatt zur Team-Planung vorstellen, das Ihnen helfen wird, Schritte in Richtung der Ziele zu machen, die Sie für Ihre Teams festgelegt haben.
 
-**Rollen und Aufgaben
+**Rollen und Aufgaben**
 
 Schritt 1: Nehmen Sie sich einzeln fünf Minuten Zeit, um ein Brainstorming über alle Möglichkeiten zu machen, wie eine mit dem Organisieren betraute Person Moderierende in Ihrem Team unterstützen kann. Benutzen Sie Haftnotizen oder kleine Papierzettel, schreiben (oder zeichnen) Sie eine Idee pro Seite. Quantität geht (beim Brainstorming) über Qualität!
 
@@ -17,7 +17,7 @@ Schritt 3: Wenn Sie fertig sind, nehmen Sie sich weitere fünf Minuten Zeit, um 
 - Welche Schritte unternehmen Sie, um Personen zu erreichen, die vielleicht bisher von Programmen wie den Lernteams nicht erreicht wurden?
 - Gibt es Bereiche, wo Sie befürchten, dass Ihre Verantwortlichkeiten im Konflikt stehen mit der Vision von P2PU?
 
-**Arbeitsblatt zur Teamplanung
+**Arbeitsblatt zur Teamplanung**
 
 Für den zweiten Teil laden Sie das [Team Planning Worksheet](https://community.p2pu.org/t/team-planning-worksheet-for-your-p2pu-community/2783) herunter und besprechen Sie die Fragen mit Ihrem Team (das sollte ungefähr 20 Minuten dauern).
 
