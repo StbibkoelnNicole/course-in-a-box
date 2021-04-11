@@ -73,7 +73,7 @@ Wenn Sie nach Kursen gesucht und sie eingeschätzt haben, folgt als letzter Schr
 Im September 2019 stellten wir diese Frage Lernteam-Moderierenden, die in der Boston Public Library an unserem jährlichen Treffen teilnahmen. Auf der nächsten Seite können Sie nachlesen, was wir zusammengestellt haben.
 
 
-![alt](/img/liste.png)
+![](/img/liste.png)
 
 **Neue Kurse erstellen**
 
