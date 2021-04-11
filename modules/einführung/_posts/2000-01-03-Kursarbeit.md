@@ -1,6 +1,6 @@
 
 
-**Kursarbeit**
+**Aktivitäten**
 
 _Vorgeschlagene Zeit: 30 Minuten_
 
