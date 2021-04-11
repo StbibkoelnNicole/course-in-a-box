@@ -1,7 +1,7 @@
 
-## [Reflektieren: Hoffnungen &amp; Befürchtungen](http://p2pu.github.io/makingandlearning/)
+## Reflektieren: Hoffnungen &amp; Befürchtungen
 
-_Vorgeschlagene Zeit: 10 Minuten _
+_Vorgeschlagene Zeit: 10 Minuten_
 
 Nachdem Sie jetzt einen Plan gemacht haben, wie Sie Ihr erstes Lernteam starten, lassen Sie uns kurz darüber nachdenken, was wir davon erhoffen und worüber wir uns Sorgen machen. Dies ist eine Reflexionsübung, die sich Hopes and Fears nennt.
 
