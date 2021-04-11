@@ -78,7 +78,7 @@ Und nun können wir die Ratschläge von einigen P2PU-Moderatoren hören, wie man
 
 [How is a Learning Circle different from a class](https://www.youtube.com/embed/1uhBWqLXlBY)
 
-Weitere Lektüre [und Ressourcen](https://learningcircles.p2pu.org/en/studygroup/create/?course_id=480)
+Weitere Lektüre und Ressourcen
 
 Die Ideen, auf denen die Lernteams fußen, sind nicht neu. Im Gegenteil, es gibt ein weit zurückreichendes und bedeutsames pädagogisches Erbe, was Bildungsformen angeht, die auf Gleichberechtigung setzen; ihnen zollt P2PU durch die Arbeit mit den Lernteams Anerkennung. Wir haben eine kurze Geschichte des Lernens in einem Kreis (im Sinne von Gruppe) zusammengestellt, und zwar [auf unserem community forum](https://community.p2pu.org/t/the-history-of-learning-in-a-circle/2777); Sie sind zum Lesen und Kommentieren eingeladen. Wir lassen uns von Texten unseres kulturellen Erbes und epochalen sozialen Bewegungen inspirieren, und ebenso von modernen Bewegungen, die sich gegen die Dominanz der formalen Bildung aussprechen.
 
