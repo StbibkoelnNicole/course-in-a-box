@@ -23,4 +23,4 @@ Für den zweiten Teil laden Sie das [Team Planning Worksheet](https://community.
 
 Wenn Sie das Arbeitsblatt noch einmal durchgehen, um Aufgaben zu verteilen, konzentrieren Sie sich auf die Dinge, bei denen Sie die Freiheit und den Spielraum haben, gleich anzufangen. Wenn Sie zusätzliche Ressourcen oder Befugnisse brauchen, um eine Aufgabe in Angriff zu nehmen, stellen Sie sicher, dass dies als ein Schritt auf dem Arbeitsblatt enthalten ist.
 
-:yarn: Wenn Sie fertig sind, wandeln Sie Ihr Arbeitsblatt zum Thema Planung in eine PDF um (oder machen Sie ein Foto davon) und teilen Sie es in der Rubrik &quot;[Starting a P2PU Community](https://community.p2pu.org/c/communities/building-a-p2pu-community)&quot; auf dem Community Forum.
+🧶 Wenn Sie fertig sind, wandeln Sie Ihr Arbeitsblatt zum Thema Planung in eine PDF um (oder machen Sie ein Foto davon) und teilen Sie es in der Rubrik &quot;[Starting a P2PU Community](https://community.p2pu.org/c/communities/building-a-p2pu-community)&quot; auf dem Community Forum.
