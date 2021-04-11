@@ -30,7 +30,7 @@ Wir empfehlen, dass Sie Ihr für Ihr erstes Lernteam eine Vorlaufzeit von mindes
 - Bestätigung, was den Veranstaltungsort angeht
 - Stellen Sie die benötigten Dinge zusammen
 
-Sie können diese Liste auch als [PDF Checklist](https://docs.google.com/document/d/1j71Y8Izmv1nnB352DQ4DDMpRJPTALaZiAoJ-zCNQR6g/edit?usp=sharing)herunterladen und die Kategorie &quot;[Promotion and Outreach](https://community.p2pu.org/t/about-the-promotion-and-outreach-category/2698)&quot; auf unserem Community Forum ansehen, die einige Vorlagen für Flyer, Ideen für Benachrichtigungen und Logos bietet, die Sie nutzen können, um Ihr Lernteam bekannter zu machen!
+Sie können diese Liste auch als [PDF Checklist](https://docs.google.com/document/d/1j71Y8Izmv1nnB352DQ4DDMpRJPTALaZiAoJ-zCNQR6g/edit?usp=sharing) herunterladen und die Kategorie &quot;[Promotion and Outreach](https://community.p2pu.org/t/about-the-promotion-and-outreach-category/2698)&quot; auf unserem Community Forum ansehen, die einige Vorlagen für Flyer, Ideen für Benachrichtigungen und Logos bietet, die Sie nutzen können, um Ihr Lernteam bekannter zu machen!
 
 Input aus der Bürgerschaft sammeln
 
