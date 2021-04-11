@@ -7,4 +7,4 @@ Nachdem Sie diesen Kurs durchgearbeitet haben, was überrascht Sie, wenn Sie üb
 
 Was möchten Sie gerne weiterhin üben?
 
-[\&gt; Über solche Dinge sprechen wir bei unseren monatlichen P2PU-Moderationspraxis-Calls.](http://p2pu.github.io/makingandlearning/)[Wir ermutigen Sie, das nächste Mal daran teilzunehmen!](https://www.p2pu.org/en/events/)
+&gt; Über solche Dinge sprechen wir bei unseren monatlichen P2PU-Moderationspraxis-Calls.[Wir ermutigen Sie, das nächste Mal daran teilzunehmen!](https://www.p2pu.org/en/events/)
