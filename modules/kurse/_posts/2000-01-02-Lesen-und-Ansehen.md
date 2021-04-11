@@ -74,7 +74,7 @@ Im September 2019 stellten wir diese Frage Lernteam-Moderierenden, die in der Bo
 
 ![alt](/img/https://github.com/StbibkoelnNicole/course-in-a-box/blob/gh-pages/img/grafik1.jpg)
 
-https://github.com/StbibkoelnNicole/course-in-a-box/blob/gh-pages/img/grafik1.jpg
+
 **Neue Kurse erstellen**
 
 In einigen Fällen haben Moderatoren ihre Kurse selbst erstellt. Hier ein paar Beispiele, wie das aussehen kann:
