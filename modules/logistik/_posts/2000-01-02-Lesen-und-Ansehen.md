@@ -1,5 +1,5 @@
 
-## Lesen [und Ansehen](http://p2pu.github.io/makingandlearning/)
+## Lesen und Ansehen
 
 _Vorgeschlagene Zeit: 35 Minuten_
 
