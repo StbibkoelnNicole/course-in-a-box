@@ -1,7 +1,7 @@
 
 ## Lesen und Ansehen
 
-_Vorgeschlagene Zeit: 35 Minuten _
+_Vorgeschlagene Zeit: 35 Minuten_
 
 Lernteams in der Praxis
 
