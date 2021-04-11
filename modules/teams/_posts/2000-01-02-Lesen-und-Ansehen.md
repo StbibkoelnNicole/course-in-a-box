@@ -3,7 +3,7 @@
 
 _Vorgeschlagene Zeit: 30 Minuten_
 
-Einen Überblick über aktuelle Koordinierungsteams gewinnen
+**Einen Überblick über aktuelle Koordinierungsteams gewinnen**
 
 Teams im Sinne von Lernteams übergeordneten Koordinierungsteams bieten eine Möglichkeit, eine Gruppe von Lernteams zu koordinieren und unterstützen, die in der gleichen Stadt oder innerhalb einer einzelnen Institution stattfinden. In jedem Team ist eine Person (oder zwei Personen) für die Organisation zuständig und hat die Aufgabe, die Lernteam-Initiative in ihrer Region zu leiten und mit P2PU zu koordinieren. Die beste Möglichkeit, sich mit dem Team-Konzept vertraut zu machen, ist zu sehen, was schon geschieht. Daher nehmen Sie sich zu Beginn ein paar Minuten Zeit, um die aktiven P2PU-Teams unter p2pu.org/teams durchzusehen und versuchen Sie, diese Fragen für sich zu beantworten:
 
@@ -32,7 +32,7 @@ Vor allem können Sie auf dieser Seite ein Exemplar von [Juliana&#39;s Organizer
 
 [Laden Sie Ihr Exemplar des Guides herunter](https://learningcircles.p2pu.org/en/get-organizer-guide/) und sehen Sie ihn 15-20 Minuten durch.
 
-![](RackMultipart20210407-4-1ctazjj_html_dc5e48e2dbd0524b.png)Ein Koordinierungsteam zusammenstellen
+:hammer_and_wrench: **Ein Koordinierungsteam zusammenstellen**
 
 Wenn Sie ein Koordinierungsteam ins Leben rufen, erhalten Sie alle dadurch Zugang zu neuen Features in Ihrem Moderationsdashboard. Dazu gehört:
 
