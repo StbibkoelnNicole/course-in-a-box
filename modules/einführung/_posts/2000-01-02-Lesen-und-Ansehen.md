@@ -74,9 +74,6 @@ Und nun können wir die Ratschläge von einigen P2PU-Moderatoren hören, wie man
 
 [How is a Learning Circle different from a class](https://www.youtube.com/embed/1uhBWqLXlBY)
 
-[Setting up a peer learning environment](https://www.youtube.com/embed/KGgECP9qgJI)
-
-[How is a Learning Circle different from a class](https://www.youtube.com/embed/1uhBWqLXlBY)
 
 **Weitere Lektüre und Ressourcen**
 
