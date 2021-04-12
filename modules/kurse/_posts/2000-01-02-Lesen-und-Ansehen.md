@@ -70,9 +70,7 @@ Falls es Ihnen schwerfällt, sich zwischen einigen Kursen zu entscheiden – P2P
 
 Wenn Sie nach Kursen gesucht und sie eingeschätzt haben, folgt als letzter Schritt die Anpassung an die Erfordernisse des Lernteams. Wie wir im ersten Modul erwähnt haben, sind nicht alle Kurse so auf Lernteams zugeschnitten wie dieser, d.h. Sie müssen als Moderierende Maßnahmen ergreifen, um den Kurs an das Lernteam-Format anzupassen. Was genau führt aber nun eigentlich dazu, dass ein Kurs erfolgreich für ein Lernteam genutzt werden kann?
 
-Im September 2019 stellten wir diese Frage Lernteam-Moderierenden, die in der Boston Public Library an unserem jährlichen Treffen teilnahmen. Auf der nächsten Seite können Sie nachlesen, was wir zusammengestellt haben.
 
-![liste](/img/liste.png )
 
 
 **Neue Kurse erstellen**
