@@ -25,7 +25,7 @@ Beispiele: [edX](https://www.edx.org/), [Coursera](https://www.coursera.org/), [
 
 - **Freie/Open-Access-Tools und Datenbanken** können auch erfolgversprechend als Grundlage eines Lernteams dienen. Moderierende haben ein Gerüst für Kurse um diese Tools herum entwickelt, um dazu beizutragen, dass sie in einem Gruppenkontext nutzbar sind:
 
-Beispiele: [Scratch](https://scratch.mit.edu/), [Tinkercad](https://www.tinkercad.com/), [GIMP](https://www.gimp.org/), [Wikipedia](https://en.wikipedia.org/wiki/Main_Page), [Youtube](https://youtube.com/), and [Project Gutenberg](https://www.gutenberg.org/).
+Beispiele: [Scratch](https://scratch.mit.edu/), [Tinkercad](https://www.tinkercad.com/), [GIMP](https://www.gimp.org/), [Wikipedia](https://en.wikipedia.org/wiki/Main_Page), [Youtube](https://youtube.com/), and [Project Gutenberg](https://www.projekt-gutenberg.org//).
 
 - **Proprietäre Kurse** berechnen Lizenzgebühren für den Zugang zu Materialien. Unser Konzept sieht nicht vor, dass Lernteams von Lernenden Beiträge für die Teilnahme erheben, aber oft haben Bibliothekssysteme oder Schulen bestehende Verträge mit Anbietern, und in diesen Fällen kann man solche Kurse auch für Lernteams heranziehen. Wenn Sie einen Kurs eines proprietären Anbieters auswählen, können Sie ihn einem Lernteam zugrunde legen, aber der Kurs wird nicht für andere in der P2PU-Kurs-Datenbank sichtbar sein.
 
