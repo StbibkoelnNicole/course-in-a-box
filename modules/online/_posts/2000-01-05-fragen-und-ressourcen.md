@@ -2,13 +2,13 @@ title: fragen und ressourcen
 
 # Offene Fragen &amp; Extra-Ressourcen
 
-Offene Fragen
+**Offene Fragen**
 
 Wir kennen die Antworten auf diese Fragen nicht, obwohl wir sie gerne kennen würden! Haben Sie Ideen oder Erfahrungen (oder weitere Fragen), die Sie ergänzen können?
 
 - Wie kontaktieren Sie Leute, die Sie jetzt nicht in der Bibliothek antreffen, und wie lassen Sie ihnen Material zukommen, wenn Sie keine aktuellen Kontaktangaben haben?
 
-Extra-Ressourcen
+**Extra-Ressourcen**
 
 Hier sind weitere Ressourcen, die von unserer Community geteilt oder erstellt wurden und die Sie vielleicht hilfreich finden:
 
