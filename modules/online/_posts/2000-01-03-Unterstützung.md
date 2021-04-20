@@ -1,0 +1,358 @@
+title: unterstützung
+
+# Der Ablauf von Lernteams
+
+## Legen Sie Ihr Ziel fest
+
+Ob als Präsenz- oder Online-Veranstaltungen, Lernteams beruhen auf ​[den drei zentralen Werten von P2PU](https://www.p2pu.org/en/about)​: Community, Peer Learning und Equity (Fairness, Gerechtigkeit). Wenn Sie dieses Handbuch weiter durcharbeiten, ist es nützlich, diese Werte im Hinterkopf zu behalten und auf sie zurückzukommen, wenn man auf ein Hindernis stößt.
+
+Lernteams funktionieren am besten, wenn die Lernenden sich im Klaren darüber sind, was sie zur Teilnahme motiviert, und das gleiche gilt für die Moderierenden. Die Fragen, die wir neuen Moderierenden seit fünf Jahren stellen, sind immer noch relevant für virtuelle Programme:
+
+- Was hoffen Sie persönlich durch die Moderation eines Lernteams zu erreichen?
+- Welchem Bedarf in Ihrer Community versuchen Sie Rechnung zu tragen?
+- Wen hoffen Sie zu erreichen?
+- Woran werden Sie erkennen, ob Ihr Experiment ein Erfolg war?
+
+Setzen Sie sich mit Ihren Leuten in Verbindung
+
+Wenn Sie Ihre persönlichen Ziele für das Lernteam festgelegt haben, werden Sie damit beginnen wollen, Ihre Ideen anderen mitzuteilen und Zustimmung von den Leuten zu erhalten, die Ihnen bei der Umsetzung helfen werden. Dazu wenden Sie sich z.B. an Menschen, die Ihrer Einschätzung nach vielleicht teilnehmen möchten, an Organisationen, die Sie dabei unterstützen könnten, Werbung für Ihr Lernteam zu machen, oder an eine Gruppe, deren Mitglied Sie sind und die Ihnen eine Rückmeldung zu Ihrer Idee geben kann. Und natürlich können Sie auch gerne jederzeit mit P2PU Kontakt aufnehmen, wenn Sie möchten, dass wir etwas beitragen!
+
+Mit einem größeren Kreis Kontakt aufnehmen
+
+Wenn Sie Feedback von einem einem größeren Kreis erhalten möchten und dazu z.B. die Mailing-Liste Ihrer Bibliothek nutzen wollen, müssen Sie vielleicht eine besser skalierbare Lösung wählen als die persönliche Rückmeldung im Format 1:1. Unsere bevorzugte Methode dafür nennt sich ​[Q Method​](https://community.p2pu.org/t/q-method-for-documenting-community-interests/2699), eine auf der Vergabe von Punkten basierende Abstimmungsmethode, die wir schon jahrelang nutzen, um das Interesse an möglichen Lernteam-Themen in Erfahrung zu bringen. Um das online auszuprobieren, können Sie ein Standard-Umfrage-Tool nutzen (wie z.B. [Google Forms](https://www.google.com/forms/about/)​, [​Typeform](https://www.typeform.com/)​, oder ​[SurveyMonkey](https://www.surveymonkey.com/)​), wo Antworten aggregiert und Ihnen privat mitgeteilt werden, oder ein kollaboratives Polling Tool (wie z.B. [​Tricider​](https://www.tricider.com/), [Mentimeter](https://www.mentimeter.com/)​ oder ​[AnswerGarden](https://answergarden.ch/)​), wo die Antworten öffentlich mitgeteilt werden.
+
+- Wenn Sie mehrere Fragen stellen wollen und / oder Antworten einzelnen Antwortenden zuordnen können möchten, dann verwenden Sie am besten ein Standard-Survey-Tool. Wir nutzen bei P2PU häufig ​ **Google Forms**** ​**, und wir haben ein ​[Q Method survey template​](https://docs.google.com/forms/d/e/1FAIpQLSe5TByw6oXOFz3EluzEiZ_aA6BdWKQg0oBGSjWPW1XgkSMVbA/viewform?usp=sf_link)erstellt, das Sie gern für Ihre eigenen Zwecke nutzen können.
+- Wenn Sie nur daran interessiert sind, eine einzelne Frage zu stellen (z.B. über welche Themen möchten Sie etwas lernen?), und wenn Sie wollen, dass die Antwortenden sehen, was andere Leute vorgeschlagen haben, dann sollten Sie ein kollaboratives Polling Tool verwenden. Tricider ist geeignet, wenn Sie wollen, dass Leute komplexere Gedanken teilen und mit Ihrer Zustimmung oder Antwort aufeinander reagieren können, und AnswerGarden ist geeignet, wenn Sie kurze Antworten sammeln wollen, die als Wortwolke visualisiert werden.
+
+Sehen Sie sich den Bereich Setup &amp; Promotion an um mehr Ideen zu bekommen, wie Sie Ihre Community erreichen, wenn Sie keine direkten Kontaktinformationen haben wie z.B. Listen mit Telefonnummern oder E-Mail-Adressen.
+
+**MEHR IM FORUM:**
+
+[How do I know what topic people want to learn about?](https://community.p2pu.org/t/how-do-i-know-what-topic-people-want-to-learn-about/2729)
+
+##
+
+
+## Finden Sie Ihren Kurs
+
+Leute, die an einem Lernteam teilnehmen, eint ein gemeinsames Interesse, und Unterstützung bieten frei verfügbare Lernmaterialien. Ihre Aufgabe als Moderierende ist es, diese Materialien zu finden, bevor das Lernteam beginnt. Die meisten Moderierenden nutzen kostenlose Online-Kurse als Themenmaterial, weil sie breit zugänglich sind, von Fachleuten entwickelt worden sind und oft in einem linearen Format konzipiert sind, das sich leicht an die Erfordernisse von Gruppenarbeit anpassen lässt.
+
+[P2PU Online Course Library](https://www.p2pu.org/en/courses/)
+
+![](RackMultipart20210420-4-1igfmm4_html_a959e58bbd5abb16.png)_Eine Scroll-Vorschau der Kurse in der P2PU Library_
+
+_Klicken Sie, um die Kursbibliothek zu sehen_
+
+Unsere Community sammelt gute Online-Kurse in der Library, die oben verlinkt ist. Über die Filterfunktion können Sie dort auch deutschsprachige Kurse anzeigen. Wählen Sie einen dieser Kurse aus dieser Datenbank oder nutzen Sie irgendeinen anderen Kurs oder eine Ressource, die Sie online finden und die Ihnen geeignet erscheint.
+
+**MEHR IM FORUM:**
+
+[How do I find a good online course?](https://community.p2pu.org/t/how-do-i-find-a-good-online-course/2757)
+
+Überlegungen
+
+Öffentlicher Zugang zur Bibliotheksinfrastruktur, stabile Internetverbindungen und persönliche Unterstützung vor Ort: das gibt es in vielen Kommunen zurzeit nur in eingeschränktem Umfang. Wenn Sie Kurse auf ihre Verwendbarkeit hin einschätzen, finden Sie hier einige zusätzliche Aspekte, damit Sie das richtige Material wählen:
+
+- **Unterstützung bei geringer Bandbreite**** ​ ****.** Falls Ihre Lernenden zuhause keine verlässlichen Internetverbindungen haben, sind Kurse mit weniger Videos und interaktiven Elementen möglicherweise besser zugänglich.
+- **Mobile first.**** ​**Viele Lernende haben möglicherweise keinen Computer, aber können trotzdem via Smartphone oder Tablet teilnehmen. Glücklicherweise bieten einige Kursanbieter (z.B. edX, FutureLearn, Coursera, und Udacity) mobile Apps an.
+- **Digitale Kompetenz:**** ​**Werden Lernende Anleitung oder technische Unterstützung brauchen, um auf einer Kursseite eigenständig zu navigieren?
+- **Benötigte Tools:**** ​**Achten Sie darauf, welche Dinge Ihre Lernenden brauchen werden, um ein Lernteam zu absolvieren. Gibt es Tools oder Materialien, auf die sie voraussichtlich Zugriff haben müssen?
+- **Arbeitspensum:**** ​**Wahrscheinlich wurde der Onlinekurs, den Sie ausgewählt haben, vor der Pandemie entwickelt. Seien Sie darauf vorbereitet, nur einen Bruchteil des Online-Kurses zu nutzen, und setzen Sie erreichbare Ziele, schließlich lernen alle unter viel schwierigeren und komplexeren Bedingungen.
+
+Ein Wochenprogramm zusammenstellen
+
+Viele Moderierende finden es hilfreich, Kursmaterialien an ein Wochenprogramm anzupassen, um ihr Lernteam zu strukturieren. Einige möchten diese Zuordnung nur für ihren persönlichen Überblick nutzen, während andere sie mit ihren Lernenden teilen, sodass alle zusammen nachhalten können, wie weit sie gekommen sind. Hier sind einige Beispiele aus unserer Community
+
+- [Social Media: What No One Has Told You about Privacy](https://docs.google.com/document/d/1_AnvIV-J8u8l3Z7TyqD8csI45sQFCoJyH7C89Df23tg/edit)by Dana
+- [COVID-19, Tackling the Novel Coronavirus​](https://docs.google.com/document/d/1JBfz869HQJ0gtapgYwrYjFfs1cDX7d4POqRBLXD4oSQ/edit)by Sébastien
+- [Job Skills Teaching Guide](https://docs.google.com/document/d/1LtHeCpP39j9SLO9ttRcUwyBh-nziU2AsT6y-jUn1STU/edit)​by Zamira
+
+Konzipieren Sie selbst einen Kurs
+
+Falls Sie keinen Kurs finden, der Ihrem Moderationsstil oder der Struktur Ihres Lernteams entspricht, überlegen Sie, ob Sie selbst einen Kurs zusammenstellen können! Sie können Materialien von zahlreichen Kursen anpassen, Ressourcen wie Youtube-Videos organisieren oder sogar einen kompletten Kurs selbst konzipieren! Hier ist eine großartige Reihe von Lernteam-Kursen über Fiction Writing von Jordan in Boston: ​[Writing Courses (Beginner, World-Building, and Series Writing)​](https://learntowritefiction.net/home/writing-courses/).
+
+## Wählen Sie Ihre Tools
+
+Es gibt Dutzende von kostenlosen Tools, die es Leuten ermöglichen, im virtuellen Raum zusammenzuarbeiten: Videokonferenzen, Gruppenanrufe, kollaborative Schreibplattformen. Sie sollten kein Geld ausgeben müssen, um erfolgreich ein Lernteam zu veranstalten.
+
+Was Sie beachten sollten, wenn Sie Ihr Online-Setup wählen.
+
+- Wird eine spezielle Ausstattung benötigt oder sind technische Voraussetzungen (Software, Infrastruktur etc.) erforderlich, um Ihr Lernteam-Thema vollständig durchzuarbeiten?
+- Auf welche Ressourcen (Computer, Smartphone, Tablet, Internetzugang) können Ihre Lernteam-Mitglieder zugreifen?
+- Mit welchen Tools können sie schon umgehen?
+- Fühlen sie sich wohl bei dem Gedanken, in Video- oder Telefonkonferenzen sichtbar oder hörbar zu sein?
+- Gibt es in Ihrem Arbeitsteam Leute, die Wissen, Erfahrungen oder Ideen zu den richtigen Tools für Ihre Community beisteuern können?
+
+Erfahrene Moderierende haben empfohlen, vor oder nach der Anmeldung eine Abfrage unter den Teilnehmenden zu machen, um zu ermitteln, zu welchen Ressourcen sie Zugang haben und welche sie gerne und problemlos nutzen. Möglicherweise entdecken Sie, dass Ihre Community nur eingeschränkt Zugang zu den Tools hat, die Sie verwenden wollten – Ideen und Fallbeispiele zu der Frage, wie man sicherstellt, dass in solchen Fällen Lernende unterstützt werden, finden Sie unter Supporting Limited Access. ​
+
+**MEHR IM FORUM:**
+
+[Tools to help you facilitate meetings online](https://community.p2pu.org/t/tools-to-help-you-facilitate-meetings-online/4401)
+
+P2PU empfiehlt: Jitsi + Etherpad
+
+Weil viele Moderierende an institutionelle Vorgaben gebunden sind und es unmöglich wäre, auf die speziellen technischen Anforderungen jedes Lernteams einzugehen, haben wir keinen umfangreichen Vergleich von Tools erstellt. (Suchen Sie nach einem umfassenden Leitfaden? Wir empfehlen [Mozilla&#39;s Video Call Apps list](https://foundation.mozilla.org/en/privacynotincluded/categories/video-call-apps/)​!) Stattdessen kommen wir gleich zu der von uns empfohlenen Kombination: Jitsi video calls + Etherpad collaborative note documents.
+
+⭐[Jitsi](https://meet.jit.si/)
+(Video Conferencing w/ Screenshare, Dial-In, Text)
+
+![](RackMultipart20210420-4-1igfmm4_html_5fb685c238c5cf05.png)
+
+_Preview eines Jitsi-Guppen-Calls während einer individuellen Leseaktivität:_
+
+_die meisten Teilnehmenden haben das Video ausgeschaltet und eine Person zeigt im Screen-Sharing-Fenster einen Countdown-Time__._
+
+Jitsi is ein kostenloses Open-Source-Video-Tool, das Sicherheit ernst nimmt und keine Registrierung mit einem Account und auch kein Herunterladen von Software auf den Computer voraussetzt. Ohne Schnickschnack oder schwerfällige Prozeduren können Leute, die teilnehmen wollen, einen Link anklicken und sind sofort dabei. Es funktioniert mit den meisten Web-Browsern und auf iOS/Android-Smartphones mit einer kostenlosen App.
+
+Get started: [meet.jit.si](https://meet.jit.si/)
+
+**Maximale Teilnehmerzahl:​** Jitsi empfiehlt nicht mehr als 35 gleichzeitig. Bei unseren Tests beginnt sich die Qualität bei mehr als 12–15 Teilnehmenden zu verschlechtern
+
+**Dial-In:​** Jitsi erzeugt Nummern zum Einwählen, dadurch können Lernende ohne Videokamera, Computer oder Smartphone via Telefon in den Raum kommen.
+
+**Datenschutz/Verschlüsselung:​** Jitsi ist datenschutzorientiert und bewahrt die Daten der Teilnehmenden (Ort, Identität) sicher und verschlüsselt auf. Mehr dazu unter [​Jitsi Meet Security &amp; Privacy](https://jitsi.org/security/)​.
+
+**URLs und Passwörter:​** Jitsi lässt Sie auf Sie als Benutzer zugeschnittene URLs und Passwörter für einen Meeting-Raum verwenden, um sicherzustellen, dass die richtigen Leute ihn finden, die falschen Leute aber nicht. (Hinweis: Passwort-Einstellungen werden jedes Mal zurückgesetzt, wenn der Raum leer ist, daher müssen Sie als erste Person den Raum betreten, um das Passwort einzustellen.)
+
+**Verantwortung der Teilnehmenden:​** Jitsi ist auch weniger hierarchisch – alle können sich gegenseitig stummschalten oder ausschließen – was es den Lernenden ermöglicht, die Rolle von Co-Moderierenden in der Gruppe zu übernehmen.
+
+Jitsi Ressourcen:
+
+- [How To Use Jitsi​](https://www.youtube.com/watch?v=e-31LT0zQK4)(video, 2:39)
+- [Using Jitsi Meet | Video Conference Demonstration​](https://www.youtube.com/watch?v=3Iwiwq7eofE&amp;list=RDCMUCx-ljiKQcLSd8_4AFi_yaIw&amp;start_radio=1&amp;t=23)(video, 16:24)
+- [Jitsi FAQ](https://jitsi.org/user-faq/)
+
+⭐[Etherpad](https://etherpad.org/)(Collaborative Text Editor)
+
+Etherpad ist ein sehr gut anpassbarer Open Source Text-Editor, der gemeinschaftliches Schreiben in Echtzeit ermöglicht. Alle, die etwas verfassen, verwenden unterschiedliche Farben, so kann man individuellen Beiträgen folgen (das kann auch abgeschaltet werden). Wir haben dies erfolgreich genutzt, um die Tagesordnung von Treffen mitzuteilen, für Übungen, bei denen man gemeinschaftlich schreibt, und für stille Reflexionen (wie Fragen im Zusammenhang mit Check-in oder Plus/Deltas am Ende einer Zusammenkunft).
+
+Fangen Sie hier an: [etherpad.p2pu.org](http://etherpad.p2pu.org/)
+
+Wir haben eine Etherpad-Instanz auf unserer Website gehostet, d.h. Sie können einfach eine URL auswählen und anfangen. Falls Sie oder jemand aus Ihrem Arbeitsteam mit Git vertraut ist, können Sie auch[Etherpad](https://github.com/ether/etherpad-lite#installation) selber installierenund es mit ​[gemeinschaftlich erstellten Plug-ins](https://static.etherpad.org/index.html)​ an Ihre Bedürfnisse anpassen (Haben Sie eine Anfrage zu den Plug-ins für das P2PU-Etherpad? ​[Email us!](mailto:thepeople@p2pu.org)​)
+
+Etherpad-Ressourcen:
+
+- [Video Etherpad](https://video.etherpad.com/)​- Eine experimentelle Version von Etherpad, die Videos von Teilnehmenden im Dokument enthält. Wir haben festgestellt, dass es mit mehr als 10 Teilnehmenden nicht gut funktioniert hat, aber es könnte eine gute Lösung für kleinere Lernteams sein!
+- [Etherpad Wiki and FAQs](https://github.com/ether/etherpad-lite/wiki)
+
+Unhangout
+
+[Unhangout](https://unhangout.media.mit.edu/)​ ist eine Open-Source-Plattform für die Durchführung großer teilnehmergesteuerter Online-Events, mit der einige Moderierende begonnen haben zu experimentieren, und zwar im Hinblick auf Lernteams. Das Unhangout-Team wird die Grenze für die Größe von Breakout Rooms vor Ende Mai aufheben, und zu diesem Zeitpunkt werden wir es als gute Alternative befürworten. Mehr Informationen unter [Welcome to Unhangout​](https://www.youtube.com/watch?v=vYxmd3BmOW0&amp;feature=emb_title)(Video, 1:59).
+
+Die Aspekte Datenschutz und Datensicherheit
+
+Es gibt verschiedene Maßnahmen, die Sie ergreifen können, um sicherzustellen, dass Ihre Gruppe unbehelligt bleibt von Leuten, die mit unlauteren Motiven auftauchen.
+
+- **Erzeugen Sie sehr individuelle URLs für Ihren Meeting Room**** ​**und posten Sie den Link nicht öffentlich im Internet (also etwa auf Ihrer Anmeldeseite). Das minimiert das Risiko, dass Leute wahllos oder aus unlauteren Motiven teilnehmen. Sie können den Teilnehmenden die Links für Treffen privat mitteilen, wenn sie sich angemeldet haben.
+- **Fügen Sie ein Passwort hinzu.**** ​**Wenn Sie irgendwelche Befürchtungen haben, fügen Sie ein Passwort zu Ihrem Raum hinzu. Sie können es jederzeit ändern, falls nötig.
+- **Behalten Sie ein Auge darauf, wer sich anmeldet.**** ​**Ihr P2PU-Dashboard für Moderierende lässt sie erkennen, wer sich anmeldet—falls Teilnehmende etwas schreiben, was bei Ihnen die Alarmglocken schrillen lässt, können Sie ihnen entweder direkt eine Nachricht schreiben oder sie einfach aus dem Lernteam ausschließen.
+- **Lernen Sie, wie man jemanden vom Meeting ausschließt.**** ​**Die meisten Videochat-Tools bieten die Möglichkeit, Teilnehmende vom Meeting auszuschließen. Allerdings verhindert das möglicherweise nicht, dass sie erneut dazukommen. Achten Sie darauf, dass Sie ein Passwort für den Raum hinzufügen oder ein existierendes ändern, bevor Sie jemanden ausschließen, um einen erneuten Beitritt dieser Person zu verhindern.
+
+##
+
+
+## Setup &amp; Promotion
+
+Wenn Sie einen Kurs ausgewählt haben, sind Sie bereit für die Einrichtung Ihres Lernteams; dafür nutzen Sie unser [Online Creation Tool](http://learningcircles.p2pu.org/studygroup/create/):
+
+Da dies für Präsenztreffen konzipiert ist, gibt ein paar Dinge, die Sie bei virtuellen Lernteams beachten müssen, wenn Sie Step 2 ausfüllen (choose a location). Mit Screeshots illustriert haben wir das in einem Post [​im Forum​](https://community.p2pu.org/t/tips-for-creating-an-online-learning-circle/4462).
+
+![](RackMultipart20210420-4-1igfmm4_html_5fc32f0064057b9b.png)
+
+_Ein Beispiel für die Anmeldeseite eines Lernteams_
+
+Wenn Sie Ihr Lernteam angelegt haben, erhalten Sie einen Link zur Anmeldeseite für Ihre Gruppe, damit Sie für Ihr Lernteam werben können (s.o.). Sie bekommen auch eine E-Mail mit dem Hinweis auf ​[Promotional and Outreach Materials](https://community.p2pu.org/c/learning-circles/promotion-and-outreach)​. Viele der Ressourcen dort, einschließlich der ​[Email and Social Media Templates​](https://community.p2pu.org/t/template-messages-to-promote-learning-circles/2764), sind auch in Zeiten von Social Distancing weiterhin relevant.
+
+Virtuelle Öffentlichkeitsarbeit
+
+Als niemand in die Bibliothek kommen und man deshalb niemanden persönlich ansprechen konnte, mussten viele Moderierende auf ihre Kreativität und ihre existierenden Online-Netzwerke setzen, um Interessierte für ihre Lernteams zu finden. Viele erfolgreiche virtuelle Lernteams haben sich gefunden durch Posts auf Mailinglisten, Newsletters, NextDoor und Social Media. Nach unserer Beobachtung gibt es drei Trends, die der Werbung für Lernteams Auftrieb geben:
+
+- **Frühere Teilnehmende kontaktieren:**** ​**In Boston fand Jordan 10 Leute mit Interesse an einem bevorstehenden Lernteam einfach dadurch, dass sie ​[mit früheren Teilnehmenden Kontakt aufnahm](https://community.p2pu.org/t/promotional-email-messaging-examples/4503)​und sie bat, Freund\*innen sowie Leute aus Ihren Arbeitsteams zu fragen.
+- **Cross-Promotion zwischen Programmen:**** ​**Zweitens setzen Moderierende zunehmend darauf, bei anderen virtuellen Programmen auf Lernteams aufmerksam zu machen, weil Leute, die schon an virtuellen Veranstaltungen teilnehmen (seien es Treffen von Buchinteressierten, professionelle Weiterbildungsprogramme oder Schulungsworkhops), auch daran interessiert sein könnten, ein virtuelles Lernteam auszuprobieren. Einen kurzen Teaser an Nachrichten für diese anderen virtuellen Programme anzufügen, kann ein guter Weg sein, um Leute für Lernteams zu gewinnen (z.B. &quot;Möchten Sie lernen, mit anderen, die auch zuhause festsitzen, gesunde Mahlzeiten zu kochen?&quot;, &quot;Schließen Sie sich Ihren Nachbarn an, wenn wir – virtuell – üben, in der Öffentlichkeit zu reden.&quot;)
+- **Expanding Worldwide:**** ​**Ein Vorteil des Online-Lernens ist, dass es keine geographischen Grenzen kennt! Einige Online-Lernteams haben Leute aus verschiedenen Teilen der Welt zum gemeinsamen Lernen zusammengeführt. Allerdings: Beachten Sie, dass das Posten von Anmeldeformularen auf Plattformen mit sehr großer Öffentlichkeit (Reddit, Twitter, etc.) zu vielen Anmeldungen von Leuten oder Bots führen kann, die gar nicht vorhaben teilzunehmen.
+
+Orte für die nicht-virtuelle Öffentlichkeitsarbeit
+
+Wenn Sie in der Lage sind, dies verantwortlich und sicher zu gestalten, ist die persönliche Werbung ein wertvolles Instrument, um dafür zu sorgen, dass Sie auch diejenigen in Ihrer Community erreichen, die virtuelle Werbung nicht sehen. Machen Sie Aushänge am Schwarzen Brett in Geschäften des Grundbedarfs und an anderen Orten, wo Fußgänger vorbeikommen (z.B. Parks). Dana in Milledgeville, Georgia, kündigte ihr Lernteam in den Fenstern ihrer Stadtteilbibliothek an, weil das eine Gegend ist, wo auch in Zeiten von Social Distancing Fußgänger vorbeikommen.
+
+Weitere Ressourcen:
+
+- [How to promote a learning circle](https://community.p2pu.org/t/how-to-promote-a-learning-circle/2727)
+- [Learning circle flyers](https://community.p2pu.org/t/learning-circle-flyers/2744)&amp; ​[Learning circle promotional videos](https://community.p2pu.org/t/examples-of-learning-circle-promotional-videos/4258)
+
+## Rollen der Moderierenden
+
+_Als ‚Facilitator&#39; (jemand, der moderiert) machen Sie das Lernen leichter. Sie sind Vater, Großmutter, die große Schwester, Cheerleader, ärztlicher oder psychologischer Beistand, die Person, die fürs Reparieren und Aufbauen zuständig ist, und der Technikfreak. Das ist viel verlangt, eine gewaltige Aufgabe! Während Sie all diese Hüte aufhaben, sind Sie gleichzeitig mit der zusätzlichen Herausforderung konfrontiert, dass Sie vielleicht ein Gesicht nicht sehen oder eine Stimme nicht hören können, dass Sie nicht wie bei persönlicher Anwesenheit die Körpersprache interpretieren oder an der Technik etwas ändern können. Und Sie müssen darauf achten, dass jeder Mensch anders ist, dass einige Leute ruhig sind, andere gerne sprechen, einige wagemutig und andere zurückhaltend sind, einige keck und andere respektvoll sind. Sie müssen diejenigen aus der Reserve locken, die sich zurückhalten, diejenigen bremsen, die dominant sind, und die Wogen glätten. Sie sind Gastgeber und möchten, dass alle sich wohlfühlen und dass es ihnen Spaß macht. Die Herausforderung besteht darin, eine Gruppendynamik herzustellen, die es allen leicht macht, ihr Ziel zu erreichen. Ihre Aufgabe besteht v.a. darin anzuerkennen, dass alle Personen Erfahrung haben, eine Perspektive und eine Geschichte, und das bedeutet, dass wir alle voneinander lernen können. Mit dieser Einstellung im Hinterkopf wird die Aufgabe viel leichter…_
+
+_-Jan Docka, Roselle Public Library District, Illinois_
+
+Jan&#39;s Gedanken zum Moderieren zeichnen ein facettenreiches Bild der zahlreichen Rollen und Aufgaben, die Moderierende übernehmen. In diesem Abschnitt beschreiben wir, was wir als die vier Hauptaufgaben von virtuell Moderierenden betrachten.
+
+Für viele Leute bedeutet der Umzug von Lernteams in eine virtuelle Umgebung, dass ein neues Bündel an Aufgaben hinzukommt, wodurch das Gefühl entstehen kann, viele Dinge regeln zu müssen. Wir führen sie im Einzelnen auf, und zwar teilweise, um Ihnen bei der Vorbereitung zu helfen, und auch, um Rollen und Aufgaben zu benennen, die Sie vielleicht an einen Co-Moderator oder eine Co-Moderatorin oder auch an eine teilnehmende Person delegieren möchten, die dazu bereit ist.
+
+Die Gruppe zusammenbringen
+
+Da Sie sich nicht persönlich treffen können, müssen Sie ein wenig zusätzliche Arbeit investieren, um zu entscheiden, wo und wie Sie sich virtuell treffen. Dazu gehört auch, eine Form der synchronen Kommunikation zu wählen (z.B. Videochat, Conference Call, Shared Notes) und zu entscheiden, ob man irgendeine Form der asynchronen Kommunikation einrichten will (z.B. Whatsapp-Gruppe, E-mail-Thread, Slack Channel). Sehen Sie sich den Abschnitt Pick Your Tools an, und denken Sie daran, dass Sie es Ihnen freigestellt ist, ein anderes Tool zu nutzen, wenn es allen Lernenden die Teilnahme erleichtert. Ein paar Anmerkungen:
+
+- Bei virtuellen Lernteams ist es besonders wichtig, sich mit allen vor dem ersten Treffen in Verbindung zu setzen und sie kurz zu informieren, welche Tools genutzt werden, wie sie eine Verbindung herstellen können und wohin sie sich wenden sollten, wenn sie Fragen haben. Um sich inspirieren zu lassen, werfen Sie einen Blick auf diese ​[learning circle message examples​](https://community.p2pu.org/t/promotional-email-messaging-examples/4503).
+- Einige virtuelle Lernteams haben Breakout Rooms (Unterräume innerhalb der Videokonferenz-Software) genutzt. Wir empfehlen, diese im Voraus einzurichten, damit Sie während des eigentlichen Lernteam-Treffens weniger zu regeln haben.
+- Sie möchten vielleicht auch nach jedem Treffen allen eine kurze Zusammenfassung schicken. Wenn Sie „create a learning circle&quot; ​auf der P2PU-Plattform wählen, können Sie via E-Mail oder SMS Nachrichten an alle Lernteam-Mitglieder schicken.
+
+Diskussionen moderieren
+
+Normalerweise gibt es bei jedem Lernteam-Treffen vier Phasen: Check-in, Zeit für das Durcharbeiten des Online-Kurses, Gruppenaktivität und Reflexionsübung. Wir finden, dass dieses zu Grunde liegende Format – eine Mischung aus Lesen im eigenen Tempo und Gruppenaktivitäten, eingerahmt von einem Check-in und einer Reflexionsaktivität – auch in einem virtuellen Raum gut funktioniert. P2PU hat einen großen Wissensschatz und ist interessiert daran, das Moderieren von Gruppendiskussionen zu fördern. Wir empfehlen Ihnen, sich unsere Seiten ​[facilitation responsibilities](https://p2pu.github.io/learning-about-learning-circles/modules/facilitation/read-&amp;-watch/)​ und ​[facilitation section](https://community.p2pu.org/c/learning-circles/facilitation)​ im P2PU-Forum anzusehen, die Videos und weitere Ressourcen enthalten.
+
+Technische Unterstützung anbieten
+
+Online-Lernteams tendieren dazu, drei Browser-Tabs gleichzeitig zu nutzen – einen für den Online-Kurs, einen für den Videochat und einen für ein Shared-Notes-Dokument. Wenn es nur eine limitierte Bandbreite gibt, kann dieser Workflow Personen entmutigen, die nicht daran gewöhnt sind, online zu arbeiten und online mit anderen zusammenzuarbeiten. Es gibt einige Möglichkeiten, wie Sie helfen können, diese Probleme zu abzumildern.
+
+- Laden Sie die Teilnehmenden ein, sich im Online-Meeting-Space 15-20 Minuten früher einzufinden, um auf Fehlersuche bei möglichen technischen Problemen gehen zu können.
+- Bitten Sie eine Kollegin oder einen Kollegen, die ersten dreißig Minuten dabei zu sein, um Ihnen zu helfen, mit Einzelnen deren Probleme anzugehen. Einen separaten Videochat speziell für technische Hilfestellung einzurichten, kann eine gute Möglichkeit sein, jemandem, der sich schwertut, einzeln Hilfe anzubieten; das erlaubt dem Rest der Gruppe, mit den Lernmaterialien weiterzuarbeiten.
+- Beginnen Sie das Lernteam mit einem Treffen zur Orientierung; stellen Sie klar, dass es optional ist, aber dass es eine gute Gelegenheit ist, mehr zu erfahren über die Tools, die genutzt werden, und über das Modell der Lernteams, bevor die Gruppe sich dann in der darauffolgenden Woche in den Kursinhalt vertieft.
+- Wählen Sie an Ihrem Gerät die Option Share your screen. Zeigen, was Sie von den anderen erwarten, kann viel leichter sein, als wenn Sie versuchen, es zu erklären. Vergewissern Sie sich vor dem Beginn der Lernteam-Veranstaltung, dass Sie damit klarkommen, Ihren Bildschirm für andere sichtbar zu machen, und üben Sie, Ihren ganzen Bildschirm oder alternativ ein bestimmtes Fenster sichtbar zu machen.
+
+Chat-Management
+
+In Online-Meetings kann der integrierte Chat-Kanal Raum für Rückmeldungen bieten und als wichtige Stelle für das Teilen von Links dienen. Es kann auch sein, dass einige von denen, die teilnehmen, keinen Zugang zu einem funktionierenden Mikrophon haben und deshalb nur via Chat kommunizieren können. Das Chat-Management an jemanden zu delegieren, ist eine gute Möglichkeit, andere in die Leitung des Lernteams einzubeziehen und sich selbst beim Moderieren nicht zu überfordern.
+
+## Lernaktivitäten
+
+Wir haben eine Reihe von Lernaktivitäten gesichtet und getestet, die unserer Meinung nach gut für Online-Räume funktionieren, wenn man die Einschränkungen und die Möglichkeiten bedenkt, die Online-Meetings mit sich bringen. Die Reihenfolge der Auflistung als Aktivitäten für das Check-in, Gruppen- und Reflexionsaktivitäten folgt dem Format eines Lernteam-Treffens. Beachten Sie, dass viele dieser Aktivitäten sowohl in der ganzen Gruppe als auch in einer kleineren Gruppe bzw. in einem Breakout Room durchgeführt werden können.
+
+**ZITAT EINER MODERATORIN:**
+
+&quot;It has worked well to structure our circle to be more focused
+
+on activities that we can go through together and discuss as a
+
+group [rather than giving time for individual activities]. It has
+
+been hard to troubleshoot when patrons are doing the
+
+activities on their own and may be struggling.&quot;
+
+— Zamira, St. Paul ([See case study](https://docs.google.com/document/d/1YzmBpNuN9cy7PL8QGEk8H8MfpnFA5I9OcaYCG0kftPc/edit))
+
+Aktivitäten für das Check-in
+
+Kurze offene Frage
+
+Eine kurze offene Frage ist eine gute Möglichkeit, ein Lernteam-Treffen zu eröffnen. Wir bemühen uns, Fragen zu finden, die mit einem einzigen Satz beantwortet werden können, aber trotzdem Gelegenheit bieten, der Gruppe etwas Persönliches (aber nicht zu Persönliches) mitzuteilen. Unsere bevorzugte Check-in-Frage ist &quot;Was haben Sie in letzter Zeit gelernt?&quot;. Das ist besonders gut, weil es allen erlaubt zu zeigen, dass sie sich in einem Bereich auskennen.
+
+Weitere Beispiele finden Sie im Forum unter ​[Weekly check-in activities](https://community.p2pu.org/t/weekly-check-in-activity/2778)
+
+Sich gegenseitig etwas zeigen
+
+Leute zu bitten, etwas Kleines vor die Webcam zu halten, ist ein lustiger ‚Eisbrecher&#39;, wenn Leute miteinander vertraut sind. Das kann ganz niedrigschwellig sein (&quot;Suchen Sie etwas Blaues!&quot;) oder etwas persönlicher (&quot;Suchen Sie etwas, das eine Bedeutung für Sie hat&quot;).
+
+Ein- oder Ausblicke
+
+Wenn man allen 30 Sekunden Zeit gibt, die anderen am Blick aus ihrem Fenster teilhaben zu lassen (oder einen Teil des Raumes zu präsentieren, in dem sie sich befinden), kann das dazu beitragen, dass sie einander und ihr jeweiliges Umfeld besser verstehen. Wir empfehlen das allerdings nur, wenn die Gruppe sich vorher schon einige Male getroffen hat und alle sich in der Gesellschaft der anderen und bei dieser Aktivität wohlfühlen.
+
+Kurs-&#39;Foto&#39;
+
+Bitten Sie die Leute, sich selbst auf einem gemeinsamen Whiteboard zu zeichnen. Wir nutzen gerne [AwwApp](https://awwapp.com/)​, weil es kostenlos ist und man sich nicht einloggen muss, um zu zeichnen.
+
+![](RackMultipart20210420-4-1igfmm4_html_f3e2cc43557857ea.png)
+
+_Ein Kurs-&#39;Foto&#39;, gezeichnet in AwwApp während einer Lernteam-Veranstaltung_
+
+Ressourcen im Internet gemeinsam nutzen
+
+Wenn man online ist, bietet es sich auch an, Ressourcen gemeinsam zu nutzen. Das kann eine sehr gute niedrigschwellige Möglichkeit sein, den Kursmitgliedern dabei zu helfen, sich sicherer zu fühlen, wenn sie Dokumente mit gemeinsamen Notizen verwenden oder etwas aus dem Internet übernehmen. Hier ein paar Beispiele:
+
+- Fügen Sie ein Bild Ihres Lieblingsmüslis aus der Kindheit in ein Dokument mit gemeinsamen Notizen ein
+- Suchen Sie nach einem Bild mit der Dateiendung .gif, das zu Ihrer Stimmung passt
+- Teilen Sie das Pandemie-Meme, das Ihnen am besten gefällt
+
+Wort-Wolke
+
+Wortwolken können eine gute Möglichkeit sein, schnell und anonym Feedback zu bestimmten Fragen zu bekommen. Wir nutzen gerne ​[Answer Garden](https://answergarden.ch/) dafür, weil kein Log-in erforderlich ist und die Ergebnisse in Echtzeit gezeigt werden.
+
+![](RackMultipart20210420-4-1igfmm4_html_2b1f87b9640207c7.png)
+
+_Wortwolke mit Antworten auf eine vorgegebene Frage__:_
+ _&quot;How do you want participants to feel in a learning circle?&quot;_
+
+Gruppenaktivitäten
+
+Breakout Rooms
+
+Räume für Kleingruppendiskussionen zu schaffen ist sehr wichtig bei Lernteams mit mehr als 8 Leuten (und es kann auch in kleineren Gruppen sinnvoll sein). Wenn man Breakout Rooms im Voraus einrichtet, erspart einem das viel Stress bei der eigentlichen Moderation. Wir nutzen gerne Jitsi für Breakout Rooms, weil es so leicht einzurichten ist, und verbinden die Teilnehmenden mit neuen Videochat-Räumen.
+
+- Ein sehr gutes Beispiel für den Einsatz von Breakout Rooms in der Praxis sehen Sie in ​[Sébastien&#39;s case study](https://info.p2pu.org/2020/04/01/online-learning-circles/)​
+
+Beach Ball
+
+Beach Ball ist eine gute Möglichkeit, alle in eine Gesprächsrunde einzubeziehen, ohne dass die moderierende Person als Vermittler jeder Interaktion auftritt. Fangen Sie an, indem Sie eine Aufforderung oder eine Frage an die Gruppe richten, und bitten Sie eine Person zu antworten. Wenn sie geantwortet hat, kann sie die Frage an eine andere Person weitergeben, indem sie deren Namen nennt.
+
+- Weiterführende Informationen unter ​[MIT OpenCourseware](https://ocw.mit.edu/courses/chemistry/5-95j-teaching-college-level-science-and-engineering-fall-2015/instructor-insights/active-learning-strategy-beach-ball/)
+
+Digitale Collage
+
+Bitten Sie ihre Gruppe, eine Collage zusammenzustellen, die ein Thema, eine Frage oder eine Aufgabe darstellt, und dafür ein kollaboratives Slidedeck zu nutzen wie ​[Google Slides](https://www.google.com/slides/about/)​. Unsere Erfahrung ist, dass es gut funktioniert, wenn man allen 10 Minuten gibt, um die Collage zusammenzustellen, und weitere 10 Minuten, um darüber zu reden. Falls Sie eine größere Gruppe haben, können Sie die Gruppenmitglieder bitten, etwas über ihre Collagen in den Speaker Notes zu schreiben; auf diese Weise können sie gegenseitig ihre Werke kommentieren, ohne dass jeder sprechen muss.
+
+![](RackMultipart20210420-4-1igfmm4_html_9e87851f631d9bef.png)
+
+_Google Slides collages made in response to the question: &quot;What does an online facilitator look like?&quot;_
+
+Fishbowl
+
+Das Fishbowl-Format ermöglicht es einer großen Gruppe, verschiedene Meinungen zu hören, ohne dass diejenigen, die nicht als Gesprächsteilnehmer benannt sind, unter dem Druck stehen, sich äußern zu müssen. Um es online zu machen, benennen Sie einfach eine kleine Gruppe (mit 4 Leuten funktioniert es gut), die sich mit einer Frage befasst. Wenn eine Person an diesem Gesprächskreis teilnehmen will, kann sie ihre Hand heben, um beizutreten, und gleichzeitig eine andere Person, die schon gesprochen hat und daher jetzt ihren Platz freigeben muss, aus der Diskussionsrunde hinauskomplimentieren.
+
+- Siehe [​Using the fishbowl facilitation format](https://community.p2pu.org/t/using-the-fishbowl-facilitation-format/2782)
+
+Eine Pause einlegen
+
+Manchmal kann es schön sein, etwas virtuelle Zeit miteinander zu verbringen, ohne sich mit dem Kursmaterial zu beschäftigen. Wir haben eine Reihe verschiedener Dinge gemacht, wobei es um Zeiträume von 5-30 Minuten ging: eine geführte Meditation anhören, ein Musikvideo ansehen, ein bisschen herumtanzen, Rezepte austauschen, Dehnübungen machen oder Online-Games spielen wie z.B. ​[Pictionary](https://gartic.io/)and ​[Codenames](https://www.horsepaste.com/)​.
+
+Reflexionsaktivitäten
+
+Plus/Delta
+
+Eine schnelle einfache Reflexionsaktivität ist es, alle nach einer Sache zu fragen, die an diesem Tag gut lief (&quot;plus&quot;), und nach einer Sache, die man gerne im Hinblick auf die nächste Woche ändern möchte (&quot;delta&quot;).
+
+- Lesen Sie hier mehr über die ​[plus/delta wrap up activity](https://community.p2pu.org/t/weekly-plus-delta-wrap-up-activity/2779)
+
+Einwort-Antwort
+
+![](RackMultipart20210420-4-1igfmm4_html_6a3b210cd929f110.png)
+
+Ein Beispiel für geschriebenen Antworten via [Valentina Ruffoni/CMX Connect](https://twitter.com/valentinaruffon/status/1258694836556881922/photo/1)
+
+Eine Möglichkeit, ein Treffen schnell zu beenden und trotzdem Feedback von allen zu erhalten, besteht darin, dass man alle Teilnehmenden bittet, ein Wort zu sagen, zu tippen oder zu schreiben, das zeigt, wie sie sich fühlen oder was ihre Pläne für die Woche sind (zum Beispiel &quot;Wie würden Sie unsere gemeinsame Zeit beschreiben?&quot;)
+
+Offene Frage
+
+In Gruppen mit 10 oder weniger Leuten können Sie auch eine bestimmte Frage zum Abschluss stellen. Unsere allgemeine Faustregel besagt, dass man keine Frage stellen sollte, an deren Beantwortung man nicht wirklich interessiert ist. Gute Fragen könnten z.B. lauten: &quot;Gibt es etwas, das Sie diese Woche überrascht hat?&quot; oder &quot;Gibt es eine Sache, die wir nächste Woche anders machen können, um unseren virtuellen Meeting-Raum einladender zu machen?&quot;
+
+![](RackMultipart20210420-4-1igfmm4_html_6a3b210cd929f110.png)
+
+## Evaluation &amp; Reflexion
+
+Wenn Ihr Lernteam zu Ende geht, was kommt als nächstes? Hier sind ein paar häufig praktizierte Möglichkeiten, wie es weitergehen kann:
+
+- **Rufen Sie ein neues Lernteam ins Leben.**** ​**Jedes Moderationsabenteuer lehrt uns etwas für das nächste Mal. Überlegen Sie, ob Sie den Lernteam-Zyklus noch einmal durchführen und dabei mit neuen Methoden experimentieren. Oder probieren Sie ein ganz neues Thema aus!
+- **Verbessern Sie den Kurs.**** ​**Wir generieren automatisch einen Forum Thread für jeden zur P2PU Library hinzugefügten Kurs, wo Moderierende ihr Feedback und ihre Ideen teilen. ([​Beispiel!​](https://community.p2pu.org/t/3d-printing-spokane-county-library-district/4020)) Diese Diskussionen erscheinen auf den Kursseiten und informieren künftige Moderierende, wie sie das Material ihrer Community am besten nahebringen.
+- **Schreiben Sie über Ihre Erfahrungen.**** ​**Viele Leute bahnen sich ihre eigenen Wege durch dieses unbekannte Territorium, und es gibt häufig Nachfragen nach weiteren Fallbeispielen und Erkenntnissen von erfahrenen Moderierenden. Ihre Schilderungen sind willkommen und wir möchten Sie ermutigen, sie im ​[Community Forum​](https://community.p2pu.org/c/learning-circles/testimony)beizutragen.
+- **Beteiligen Sie sich an einem Community Call oder einer Arbeitsgruppe.**** ​**P2PU lädt zu monatlichen Community Calls und gelegentlich zu Arbeitsgruppen ein, die Moderierende zusammen-bringen, um Ideen zu diskutieren und Unterstützung anzubieten. Möchten Sie teilnehmen? Dann schreiben Sie uns eine E-mail​!
+
+**MEHR IM BLOG:** [How we evaluate our work](https://medium.com/@grifpeterson/how-we-evaluate-our-work-8e335eb24eed)
+
+Automatic Insight Surveys
+
+Am Ende jeder mehrwöchigen Lernteam-Veranstaltung erhalten Lernende und Moderierende automatisch eine E-Mail mit einer Umfrage; sie werden gebeten, über das Ziel nachzudenken, das sie sich am Anfang gesteckt hatten, ein Feedback zum Lernteam zu geben (was hat gut geklappt, was könnte verbessert werden) und die Frage zu beantworten, was ihre nächsten Schritte sein werden. Die Antworten dieser Umfrage werden genutzt, um eine Zusammenfassung unter der Bezeichnung &quot;learning circle insights&quot; (​[Beispiel​](https://learningcircles.p2pu.org/en/studygroup/923/report/)) zu erstellen, die der moderierenden Person, den mit organisatorischen Aufgaben betrauten Personen und den Lernenden mitgeteilt wird und auf dem öffentlichen Moderationsdashboard einsehbar ist, damit andere davon lernen können.
+
+Wenn es andere Erkenntnisse gibt, an denen Ihnen gelegen ist, überlegen Sie sich, ob Sie Ihre eigene Umfrage verschicken wollen. Sébastien in Boston sammelte kurze, aber informative Antworten mit Hilfe einer vereinfachten Plus/Delta-Umfrage (​[s. hier​](https://docs.google.com/forms/d/1ZKeESfAyr2TNLzGm2S6SjyVqtEN_wyaRBWU1xZu5Mbw/edit)), die er an seine Lernteam-Mitglieder schickte, um kurze wöchentliche Feedbacks zu bekommen und auch um etwas über ihre Interessen im Hinblick auf neue Lernteams zu
+
+erfahren.
+
+Bescheinigungen &amp; Bestätigungen
+
+P2PU vergibt keinerlei Akkreditierung oder formale Bildungszertifikate. Einige Kurse bieten verschiedene Arten von Bestätigungen an, allerdings müssen die Lernenden dem Kursanbieter oft etwas für die Ausfertigung zahlen.
+
+![](RackMultipart20210420-4-1igfmm4_html_802f5390ff9da0b.png) ![](RackMultipart20210420-4-1igfmm4_html_802f5390ff9da0b.png) ![](RackMultipart20210420-4-1igfmm4_html_802f5390ff9da0b.png) ![](RackMultipart20210420-4-1igfmm4_html_802f5390ff9da0b.png) ![](RackMultipart20210420-4-1igfmm4_html_802f5390ff9da0b.png)
+
+_A blank P2PU Certificate of Achievement template_
+
+Einige Moderierende händigen gerne am Ende eines Lernteams Bescheinigungen aus, um dadurch dazu beizutragen, dass die Teilnehmenden ein Erfolgserlebnis haben und um eine engere Verbindung zwischen Bibliothek oder Lernzentrum und Lernenden zu fördern. Wenn Sie die Erfolge der Lernenden anerkennen und gebührend würdigen wollen, können Sie unsere Vorlage ​[Certificate Template](https://community.p2pu.org/t/certificate-template/2784) nutzen oder an Ihre Bedürfnisse anpassen.
