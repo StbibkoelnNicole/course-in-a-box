@@ -28,7 +28,7 @@ Die [P2PU Website](https://www.p2pu.org/en/) ist die zentrale Anlaufstelle für 
 
 - [Learning circle signup page](http://p2pu.org/learning-circles): Hier finden potentielle Lernende alle Learning Circles, die z.Zt. an verschiedenen Orten der Welt stattfinden.
 - [Community forum](http://community.p2pu.org/): Das ist der Ort, wo man alles, was Learning Circles betrifft, mit anderen Moderierenden diskutieren kann.
-- [Facilitator page](https://www.p2pu.org/facilitate/): Diese Seite versammelt einige besonders erwähnenswerte Ressourcen aus unserem Community Forum.
+- [Knowledge Base](https://docs.p2pu.org/): Diese Seite versammelt einige besonders erwähnenswerte Ressourcen aus unserem Community Forum.
 - [Facilitator dashboard](https://learningcircles.p2pu.org/en/): Im Dashboard können Sie Feedback zu Ihren Lernteams erstellen, verwalten und mit anderen teilen. Wir bieten auch aktuelle Informationen aus der Community, einschließlich Links zu Diskussionen, die es kurz zuvor im Forum gab, einen Instagram-Feed, neu hinzugefügte Kurse und eine Übersicht zu bald beginnenden Learning Circles/Lernteams weltweit und in Ihrer Stadt.
 - [Courses page](https://www.p2pu.org/courses/): Die Kursseite führt alle Onlinekurse auf, die Moderierende genutzt haben, um Lernteams zu moderieren. Diese Course Library wird von der Community aufgebaut; jeder Moderator kann einen neuen Onlinekurs zu der Liste hinzufügen.
 - [Blog](https://info.p2pu.org/): Die neuesten Informationen des P2PU-Teams.
