@@ -147,12 +147,11 @@ Reflexionen müssen nicht immer in der ganzen Gruppe stattfinden – Sie können
 
 Feedback zu erhalten ist nötig, um sich zu verbessern, sowohl wenn man an einem Lernteam teilnimmt als auch wenn man es moderiert. Wenn Sie ein Lernteam moderieren, bedeutet das deshalb, dass Sie eingeladen werden, Ihre Erfahrungen mitzuteilen und mit anderen Moderator\*innen aus aller Welt zu reflektieren und Probleme anzugehen. Auch wenn Ihr Lernteam sich persönlich trifft und unsere Praxis-Community weitgehend virtuell ist, ist uns daran gelegen, dieselben P2PU-Werte in unserer Praxis-Community zugrunde zu legen, sodass Sie Ihre Moderationsmethoden weiter verfeinern können, wenn Sie Moderierende treffen. Hier sind einige der wichtigsten Komponenten unserer Praxis-Community:
 
-- [Community forum](https://community.p2pu.org/): Die Online-Plattform von P2PU, wo Moderierende Fragen stellen, Ressourcen teilen und relevante Themen diskutieren können.
-- [Facilitate page](http://p2pu.org/facilitate): Ausgewählte Ressourcen und Diskussionen aus dem Community Forum, die so gestaltet sind, dass sie Newcomern in der Anfangsphase beim Einstieg helfen.
+- [Community forum](https://community.p2pu.org/c/communities/p2pu-deutsch/71): Die Online-Plattform von P2PU, wo Moderierende Fragen stellen, Ressourcen teilen und relevante Themen diskutieren können.
+- [Knowledge Base](https://docs.p2pu.org/): Ausgewählte Ressourcen und Diskussionen aus dem Community Forum, die so gestaltet sind, dass sie Newcomern in der Anfangsphase beim Einstieg helfen.
 - Zusammenfassungen (Digests): eine monatliche E-Mail, die alles, was bei P2PU passiert, zusammenfasst, einschließlich Neuigkeiten, Veranstaltungen und auch vor Kurzem hinzugefügte Lernteams und Kurse.
 - [Events](https://www.p2pu.org/en/events/): P2PU bietet ganze Jahr über unterschiedlichen Veranstaltungen eine Plattform: virtuellen Community Calls, regionalen Treffen, offenen Trainings und Zusammenkünften.
-- [Course ratings](https://www.p2pu.org/en/courses/): Feedback von Lernenden und Moderierenden wird auf den Kurs-Karten auf der Kursseite zusammengefasst. Hier ist ein Beispiel für Feedback zu dem [public speaking course](https://learningcircles.p2pu.org/en/course/2/).
-- [Learning circle insights](https://community.p2pu.org/t/learning-circle-insights-are-now-available/3056): Jedes Lernteam hat die Gelegenheit, seine Erfahrungen auf Feedback-Formularen mitzuteilen, die wir Moderierenden und Lernenden schicken.
+- [Course ratings](https://www.p2pu.org/learning-resourses/): Feedback von Lernenden und Moderierenden wird auf den Kurs-Karten auf der Kursseite zusammengefasst. Hier ist ein Beispiel für Feedback zu dem [public speaking course](https://learningcircles.p2pu.org/en/course/2/).
 - Social Media: Wir ermutigen Moderierende und Lernende, das, was sie während des Lernteams lernen, auf [Twitter](https://twitter.com/P2PU), [Instagram](https://www.instagram.com/p2puniversity/), [Flickr](https://www.flickr.com/groups/p2pu/), und [Facebook](https://www.facebook.com/P2PUniversity) mitzuteilen. #learningcircles.
 
 🛠️ **Ihr Moderationsdashboard**
@@ -163,7 +162,6 @@ In einem vorangegangenen Modul haben wir das [learning circle dashboard](https:/
 - populäre Diskussionsthemen auf dem Community Forum
 - neue Ressourcen für die Moderation
 - Erkenntnisse von kürzlich beendeten Lernteams
-- den Instagram Feed von P2PU
 - Ankündigungen vom P2PU-Team
 - demnächst stattfindende Lernteams in Ihrer Gegend
 

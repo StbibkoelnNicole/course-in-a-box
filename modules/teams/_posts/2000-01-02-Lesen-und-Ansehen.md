@@ -14,9 +14,7 @@ Teams im Sinne von Lernteams übergeordneten Koordinierungsteams bieten eine Mö
 
 **Juliana&#39;s organizer guide**
 
-P2PU hat eine Website, die der Moderationsseite ähnelt, aber [resources for organizers](https://www.p2pu.org/en/organize/) bietet. Hier finden Sie Ressourcen, die Sie nutzen können, um ein Team von Lernteam-Moderierenden in Ihrer Gegend aufzubauen.
-
-Vor allem können Sie auf dieser Seite ein Exemplar von [Juliana&#39;s Organizer Guide](https://learningcircles.p2pu.org/en/get-organizer-guide/) herunterladen, ein 25-Seiten-Dokument, das wir mit Juliana Muchai zusammengestellt haben, P2PU&#39;s allererster Organisatorin, und ihrem Team beim Kenya National Library Service. Dieser Leitfaden macht sie mit den sechs Schritten zum Aufbau eines Teams bekannt:
+P2PU hat eine Website, die der Moderationsseite ähnelt, aber [resources for organizers](https://docs.p2pu.org/teams/about-teams) bietet. Hier finden Sie Ressourcen, die Sie nutzen können, um ein Team von Lernteam-Moderierenden in Ihrer Gegend aufzubauen. Dieser Leitfaden macht sie mit den sechs Schritten zum Aufbau eines Teams bekannt:
 
 1. Orientieren Sie sich an P2PU
 
@@ -30,15 +28,13 @@ Vor allem können Sie auf dieser Seite ein Exemplar von [Juliana&#39;s Organizer
 
 6. Nehmen Sie an der globalen P2PU-Community teil
 
-[Laden Sie Ihr Exemplar des Guides herunter](https://learningcircles.p2pu.org/en/get-organizer-guide/) und sehen Sie ihn 15-20 Minuten durch.
 
 🛠️ **Ein Koordinierungsteam zusammenstellen**
 
 Wenn Sie ein Koordinierungsteam ins Leben rufen, erhalten Sie alle dadurch Zugang zu neuen Features in Ihrem Moderationsdashboard. Dazu gehört:
 
-- **Eine eigene Landingpage (und eine einprägsame URL) für Ihr Team.** Das erlaubt es Ihnen, für alle Lernteams, die in Ihrem Koordinierungsteam vertreten sind, mit einer einzigen URL zu werben. (Sehen Sie sich z.B. an: [Saint Paul Public Library](https://sppl.p2pu.org/) und [P2PU Berlin](https://berlin.p2pu.org/)).
+- **Eine eigene Landingpage (und eine einprägsame URL) für Ihr Team.** Das erlaubt es Ihnen, für alle Lernteams, die in Ihrem Koordinierungsteam vertreten sind, mit einer einzigen URL zu werben. (Sehen Sie sich z.B. an: [Los Angeles Public Library](https://p2pu.org/lapl) und [Stadtbibliothek Köln](https://koeln.p2pu.org/)).
 - **Teamfunktionen auf Ihrem Dashboard.** Moderierende werden von ihrem Dashboard aus sehen können, was in ihrem gesamten Team passiert.
 - **Wöchentliche Updates von Ihrem Team der Moderierenden.** Diese Updates enthalten die Anzahl der Anmeldungen von jedem Lernteam, einen Wochenplan des Teams und eine Zusammenfassung des Feedbacks von Moderierenden. Alle Moderierenden haben die Option, diese wöchentliche E-Mail auf Wunsch von Ihrem Dashboard zu erhalten.
 - **Aggregiertes Feedback.** Angaben von Lernteams in Ihrem Koordinierungsteam können für Auswertungs- und Berichtszwecke aggregiert und gemeinsam genutzt werden.
 
-Umfassende und aktuelle Informationen zur technischen Seite der Dinge sind nachzulesen im Team-Bereich von [our Read the Docs](https://learning-circles-user-manual.readthedocs.io/en/latest/index.html).

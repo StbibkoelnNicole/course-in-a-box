@@ -19,4 +19,4 @@ Besprechen Sie folgende Fragen. Wenn möglich, tragen Sie Ihre Antworten dort ei
 
 Wenn Sie zunächst nur einige Felder ausfüllen können, können Sie Ihr Lernteam als Entwurf speichern und später darauf zurückkommen.
 
-🧶 Wenn Sie fertig sind, sprechen Sie als Gruppe Ihre Pläne durch. Was sind die Knackpunkte? Können die Gruppenmitglieder sich untereinander irgendwie helfen? Würde die Gruppe davon profitieren, mit einer Person zu sprechen, die früher schon einmal moderiert hat? Lassen Sie andere an diesen Gedanken teilhaben – in der Rubrik &quot;[Creating a learning circle](https://community.p2pu.org/c/learning-circles/creating-a-learning-circle)&quot; im Community Forum.
+🧶 Wenn Sie fertig sind, sprechen Sie als Gruppe Ihre Pläne durch. Was sind die Knackpunkte? Können die Gruppenmitglieder sich untereinander irgendwie helfen? Würde die Gruppe davon profitieren, mit einer Person zu sprechen, die früher schon einmal moderiert hat? 
